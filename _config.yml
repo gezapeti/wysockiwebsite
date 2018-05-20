@@ -255,9 +255,7 @@ compress_html:
   ignore:
     envs: development
 
----
-layout: splash
----
+
 # Defaults
 defaults:
   # _posts
