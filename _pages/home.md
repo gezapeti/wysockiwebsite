@@ -1,6 +1,4 @@
-  - scope:
-      path: "/"
-      type: pages
-    values:
-      layout: splash
-      author_profile: false
+  ---
+  layout: splash
+  permalink: /
+  ---
