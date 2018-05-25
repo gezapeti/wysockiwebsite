@@ -10,4 +10,4 @@ excerpt: "Egyesületünk folyamatosan várja új tagok jelentkezését. Középi
 
 
 Elvárások: hazaszeretet, állóképesség és fegyelem a csatabemutatók, parádék, ünnepségek és egyéb
-rendezvények alkalmával. Jelenkezz [Facebook oldalunkon|http://facebook.com/wysockilegio] vagy az info _at_ wysocki.hu email címen.
+rendezvények alkalmával. Jelenkezz [Facebook oldalunkon](http://facebook.com/wysockilegio) vagy az [info_kukac_wysocki.hu](mailto:info_kukac_wysocki.hu) címen.
