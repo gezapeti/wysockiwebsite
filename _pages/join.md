@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/egyesulet.jpg
-  cta_label: "Egyesületünk folyamatosan várja új tagok jelentkezését. Középiskolások számára önkéntes szolgálatot is tudunk igazolni."
+excerpt: "Egyesületünk folyamatosan várja új tagok jelentkezését. Középiskolások számára önkéntes szolgálatot is tudunk igazolni."
 ---
 
 
