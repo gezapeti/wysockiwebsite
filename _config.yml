@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "hu_HU"
-title                    : "Wysocki Légió"
+title                    : "Wysocki Légió Hagyományőrző Egyesület"
 title_separator          : "-"
 name                     : "Józef Wysocki"
 description              : "A Wysocki Légió Hagyományőrző Egyesület Honlapja"
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Józef Wysocki"
+  name             : "Peter Cseh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A Magyarországon harcoló Lengyel Légió vezetője 1848-49-ben."
   location         : "Tarnów"
