@@ -16,3 +16,8 @@ SWIFT kód: OKHBHUHB
 
 
 Köszönjük az egyesulet működését és fejlődését biztosító támogatást:
+
+|:-------------:|:-------------:|:-----:|
+| ![Emberi Erőforrások Minisztériuma](/asserts/images/support/emmi.png "Emberi Erőforrások Minisztériuma")| ![Honvédelmi Minisztérium](/asserts/images/support/hm.jpg "Honvédelmi Minisztérium") | ![Óbuda Békásmegyer Önkormányzata](/https://upload.wikimedia.org/wikipedia/commons/e/ee/Obuda-cimer.jpg "Óbuda Békásmegyer Önkormányzata") |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
