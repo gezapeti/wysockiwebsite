@@ -25,5 +25,4 @@ Köszönjük az egyesulet működését és fejlődését biztosító támogatá
 |Kaposvári Lengyel Nemzetiségi Önkormányzat |Kőbányai Lengyel Nemzetiségi Önkormányzat | Óbuda - Békásmegyer III. kerületi Lengyel Nemzetiségi Önkormányzat |
 | Szolnoki Lengyel Nemzetiségi Önkormányzat | Országos Lengyel Önkormányzat | Szalonnai Lengyel Nemzetiségi Önkormányzat|
 | Tatabányai Lengyel Nemzetiségi Önkormányzat | Újpesti Lengyel Nemzetiségi Önkormányzat|  XII. kerületiLengyel Nemzetiségi Önkormányzat|
-| XIII. kerületi Lengyel Nemzetiségi Önkormányzat |
-XVII. kerületi Lengyel Nemzetiségi Önkormányzat|
+| XIII. kerületi Lengyel Nemzetiségi Önkormányzat | XVII. kerületi Lengyel Nemzetiségi Önkormányzat|
