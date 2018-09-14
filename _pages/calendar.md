@@ -3,7 +3,7 @@ title: "Eseménynaptár"
 permalink: /calendar
 excerpt: "Találkozzunk!"
 ---
-X
+Hamarosan!
 <link href='assets/lib/fullcalendar.min.css' rel='stylesheet' />
 <link href='assets/lib/fullcalendar.print.min.css' rel='stylesheet' media='print' />
 <script src='assets/lib/moment.min.js'></script>
