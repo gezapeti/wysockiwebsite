@@ -18,9 +18,9 @@ SWIFT kód: OKHBHUHB
 Köszönjük az egyesulet működését és fejlődését biztosító támogatást:
 
 |:-------------:|:-------------:|:-----:|
-| ![Emberi Erőforrások Minisztériuma](assets/images/support/emmi.png "Emberi Erőforrások Minisztériuma") | ![Honvédelmi Minisztérium](assets/images/support/hm.jpg "Honvédelmi Minisztérium") | Óbuda Békásmegyer Önkormányzata ![Óbuda Békásmegyer Önkormányzata](https://upload.wikimedia.org/wikipedia/commons/e/ee/Obuda-cimer.jpg "Óbuda Békásmegyer Önkormányzata") |
-| ![Lengyel Köztársaság Budapesti Nagykövetsége] (https://i1.wp.com/polgarportal.hu/wp-content/uploads/2016/03/lengyel-k%C3%B6zt%C3%A1rsas%C3%A1g-budapesti-nagyk%C3%B6vets%C3%A9ge.jpg?fit=350%2C361 "Lengyel Köztársaság Budapesti Nagykövetsége")  | ![Fundacja Pomoc Polakom na Wschodzie] (/assets/images/support/pomoc.jpg "Fundacja Pomoc Polakom na Wschodzie")      |   ![Stowarzyszenia Wspólnota Polska] (/assets/images/support/Logo-Wspolnota-Polska.jpg" Stowarzyszenia Wspólnota Polska") |
-| ![Tiszta Formák Alapítvány] (http://tisztaformak.hu/wp-content/themes/tisztaformak/images/logo-tfa-header.gif "Tiszta Formák Alapítvány") | Külgazdasági és Külügyminisztérium     |  Közigazgatási és Igazságügyi Minisztérium
+| Emberi Erőforrások Minisztériuma ![Emberi Erőforrások Minisztériuma](assets/images/support/emmi.png "Emberi Erőforrások Minisztériuma") | Honvédelmi Minisztérium ![Honvédelmi Minisztérium](assets/images/support/hm.jpg "Honvédelmi Minisztérium") | Óbuda Békásmegyer Önkormányzata ![Óbuda Békásmegyer Önkormányzata](https://upload.wikimedia.org/wikipedia/commons/e/ee/Obuda-cimer.jpg "Óbuda Békásmegyer Önkormányzata") |
+| Lengyel Köztársaság Budapesti Nagykövetsége ![Lengyel Köztársaság Budapesti Nagykövetsége] (assets/images/support/nagykovetseg.jpg "Lengyel Köztársaság Budapesti Nagykövetsége")  | Fundacja Pomoc Polakom na Wschodzie ![Fundacja Pomoc Polakom na Wschodzie] (assets/images/support/pomoc.jpg "Fundacja Pomoc Polakom na Wschodzie")  | Stowarzyszenia Wspólnota Polska  ![Stowarzyszenia Wspólnota Polska] (assets/images/support/Logo-Wspolnota-Polska.jpg" Stowarzyszenia Wspólnota Polska") |
+| Tiszta Formák Alapítvány ![Tiszta Formák Alapítvány] (http://tisztaformak.hu/wp-content/themes/tisztaformak/images/logo-tfa-header.gif "Tiszta Formák Alapítvány") | Külgazdasági és Külügyminisztérium     |  Közigazgatási és Igazságügyi Minisztérium
  |
 
 
