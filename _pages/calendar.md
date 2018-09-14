@@ -30,15 +30,13 @@ excerpt: "Találkozzunk!"
 
       events: 'du05dgqv9ibe041aokilbh3pnk@group.calendar.google.com',
 
-      eventClick: function(event) {
+      /*eventClick: function(event) {
         // opens events in a popup window
         window.open(event.url, 'gcalevent', 'width=700,height=600');
         return false;
-      },
+      },*/
 
-      loading: function(bool) {
-        $('#loading').toggle(bool);
-      }
+
 
     });
 
@@ -67,7 +65,5 @@ excerpt: "Találkozzunk!"
   }
 
 </style>
-
-  <div id='loading'>loading...</div>
 
   <div id='calendar'></div>
