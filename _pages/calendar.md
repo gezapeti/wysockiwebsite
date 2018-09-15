@@ -15,6 +15,7 @@ Hamarosan!
 <script src='assets/lib/fullcalendar.min.js'></script>
 <script src='assets/lib/gcal.min.js'></script>
 <script>
+import "fullcalendar";
 
   $(document).ready(function() {
 
