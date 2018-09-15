@@ -10,7 +10,7 @@ header:
 Hamarosan!
 <link href='assets/lib/fullcalendar.min.css' rel='stylesheet' />
 <link href='assets/lib/fullcalendar.print.min.css' rel='stylesheet' media='print' />
-<script src='assets/lib/lib/jquery-3.3.1.min.js'></script>
+<script src='assets/lib/lib/jquery.min.js'></script>
 <script src='assets/lib/lib/moment.min.js'></script>
 <script src='assets/lib/fullcalendar.min.js'></script>
 <script src='assets/lib/gcal.min.js'></script>
