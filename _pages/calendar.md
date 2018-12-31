@@ -8,6 +8,8 @@ header:
   overlay_image: /assets/images/horse.png
 ---
 # Közelgő események:
+
+
 | | | |
 |---|---|---|
 |2019-01-27|Vác 56-os forgatás|56|
@@ -17,6 +19,8 @@ header:
 |2019-08-20|Gdanski kirándulás|egyesületi|
 
 # Múltbeli események:
+
+
 | | | |
 |---|---|---|
 |2018-01-05|Raktár, bőr ápolás F5-től ahogy érkeztek||
