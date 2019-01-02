@@ -7,12 +7,11 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/horse.png
 ---
-# Közelgő események:
+# Közelgő, várható események:
 
 
 | | |
 |---|---|
-|2019.01.27|Vác, 56-os forgatás|
 |2019.02.03|Doni túra - Nagykáta|
 |2019.03.02|Szolnoki csata|
 |2019.03.15|Hajdúszoboszló - I. Dzsidás ezred emléktáblájának koszorúzása|
