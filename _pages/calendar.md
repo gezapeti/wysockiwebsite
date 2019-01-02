@@ -12,9 +12,6 @@ header:
 
 | | |
 |---|---|
-|2019.02.03|Doni túra - Nagykáta|
-|2019.03.02|Szolnoki csata|
-|2019.03.15|Hajdúszoboszló - I. Dzsidás ezred emléktáblájának koszorúzása|
 |2019.08.20|Gdanski tanulmányi kirándulás|
 
 # Múltbeli események:
