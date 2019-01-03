@@ -18,7 +18,7 @@ Elérhetőek vagyunk a [Facebook oldalunkon](http://facebook.com/wysockilegio), 
 
 Köszönjük az egyesulet működését és fejlődését biztosító támogatást:
 
-* Bethlen Gábor Alapkezelő ![Bethlen Gábor Alapkezelő](assets/images/support/bethlen.jpg "Bethlen Gábor Alapkezelő")
+* Bethlen Gábor Alapkezelő ![Bethlen Gábor Alapkezelő](assets/images/support/bethlen.jpg "Bethlen Gábor Alapkezelő"){:height="80px"}
 * Budapesti Lengyel Intézet
 * Emberi Erőforrások Minisztériuma ![Emberi Erőforrások Minisztériuma](assets/images/support/emmi.png "Emberi Erőforrások Minisztériuma")
 * Honvédelmi Minisztérium ![Honvédelmi Minisztérium](assets/images/support/hm.jpg "Honvédelmi Minisztérium")
