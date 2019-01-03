@@ -103,7 +103,7 @@ author:
   name             : "Peter Cseh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A Magyarországon harcoló Lengyel Légió vezetője 1848-49-ben."
-  location         : "Tarnów"
+  location         : "Budapest"
   email            : "info@wysocki.hu"
   uri              : "http://www.wysocki.hu"
   home             : # null (default), "absolute or relative url to link to author home"

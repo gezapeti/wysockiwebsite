@@ -14,6 +14,7 @@ IBAN: HU75 1040 4065 5052 6580 5283 1000
 
 SWIFT kód: OKHBHUHB
 
+Elérhetőek vagyunk a [Facebook oldalunkon](http://facebook.com/wysockilegio), illetve az [info_kukac_wysocki.hu](mailto:info_kukac_wysocki.hu) címen is.
 
 Köszönjük az egyesulet működését és fejlődését biztosító támogatást:
 
