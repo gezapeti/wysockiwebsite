@@ -18,28 +18,28 @@ Elérhetőek vagyunk a [Facebook oldalunkon](http://facebook.com/wysockilegio), 
 
 Köszönjük az egyesulet működését és fejlődését biztosító támogatást:
 
-Bethlen Gábor Alapkezelő ![Bethlen Gábor Alapkezelő](assets/images/support/bethlen.jpg "Bethlen Gábor Alapkezelő")
-Budapesti Lengyel Intézet
-Emberi Erőforrások Minisztériuma ![Emberi Erőforrások Minisztériuma](assets/images/support/emmi.png "Emberi Erőforrások Minisztériuma")
-Honvédelmi Minisztérium ![Honvédelmi Minisztérium](assets/images/support/hm.jpg "Honvédelmi Minisztérium")
-Óbuda Békásmegyer Önkormányzata ![Óbuda Békásmegyer Önkormányzata](https://upload.wikimedia.org/wikipedia/commons/e/ee/Obuda-cimer.jpg "Óbuda Békásmegyer Önkormányzata")
-Lengyel Köztársaság Budapesti Nagykövetsége ![Lengyel Köztársaság Budapesti Nagykövetsége](assets/images/support/nagykovetseg.jpg "Lengyel Köztársaság Budapesti Nagykövetsége")
-Fundacja Pomoc Polakom na Wschodzie ![Fundacja Pomoc Polakom na Wschodzie](assets/images/support/pomoc.jpg "Fundacja Pomoc Polakom na Wschodzie")  
-Stowarzyszenia Wspólnota Polska  ![Stowarzyszenia Wspólnota Polska](assets/images/support/Logo-Wspolnota-Polska.jpg "Stowarzyszenia Wspólnota Polska")
-Tiszta Formák Alapítvány ![Tiszta Formák Alapítvány](http://tisztaformak.hu/wp-content/themes/tisztaformak/images/logo-tfa-header.gif "Tiszta Formák Alapítvány")
-Külgazdasági és Külügyminisztérium    
-Közigazgatási és Igazságügyi Minisztérium
-Kövér László
-Belváros - Lipótváros Budapest Főváros V. kerület Lengyel Nemzetiségi Önkormányzat
-Egri Lengyel Nemzetiségi Önkormányzat
-Kaposvári Lengyel Nemzetiségi Önkormányzat
-Kőbányai Lengyel Nemzetiségi Önkormányzat
-Óbuda - Békásmegyer III. kerületi Lengyel Nemzetiségi Önkormányzat
-Szolnoki Lengyel Nemzetiségi Önkormányzat
-Országos Lengyel Önkormányzat
-Szalonnai Lengyel Nemzetiségi Önkormányzat
-Tatabányai Lengyel Nemzetiségi Önkormányzat
-Újpesti Lengyel Nemzetiségi Önkormányzat
-XII. kerületiLengyel Nemzetiségi Önkormányzat
-XIII. kerületi Lengyel Nemzetiségi Önkormányzat
-XVII. kerületi Lengyel Nemzetiségi Önkormányzat
+* Bethlen Gábor Alapkezelő ![Bethlen Gábor Alapkezelő](assets/images/support/bethlen.jpg "Bethlen Gábor Alapkezelő")
+* Budapesti Lengyel Intézet
+* Emberi Erőforrások Minisztériuma ![Emberi Erőforrások Minisztériuma](assets/images/support/emmi.png "Emberi Erőforrások Minisztériuma")
+* Honvédelmi Minisztérium ![Honvédelmi Minisztérium](assets/images/support/hm.jpg "Honvédelmi Minisztérium")
+* Óbuda Békásmegyer Önkormányzata ![Óbuda Békásmegyer Önkormányzata](https://upload.wikimedia.org/wikipedia/commons/e/ee/Obuda-cimer.jpg "Óbuda Békásmegyer Önkormányzata")
+* Lengyel Köztársaság Budapesti Nagykövetsége ![Lengyel Köztársaság Budapesti Nagykövetsége](assets/images/support/nagykovetseg.jpg "Lengyel Köztársaság Budapesti Nagykövetsége")
+* Fundacja Pomoc Polakom na Wschodzie ![Fundacja Pomoc  Polakom na Wschodzie](assets/images/support/pomoc.jpg "Fundacja Pomoc Polakom na Wschodzie")  
+* Stowarzyszenia Wspólnota Polska  ![Stowarzyszenia Wspólnota Polska](assets/images/support/Logo-Wspolnota-Polska.jpg "Stowarzyszenia Wspólnota Polska")
+* Tiszta Formák Alapítvány ![Tiszta Formák Alapítvány](http://tisztaformak.hu/wp-content/themes/tisztaformak/images/logo-tfa-header.gif "Tiszta Formák Alapítvány")
+* Külgazdasági és Külügyminisztérium    
+* Közigazgatási és Igazságügyi Minisztérium
+* Kövér László
+* Belváros - Lipótváros Budapest Főváros V. kerület  Lengyel Nemzetiségi Önkormányzat
+* Egri Lengyel Nemzetiségi Önkormányzat
+* Kaposvári Lengyel Nemzetiségi Önkormányzat
+* Kőbányai Lengyel Nemzetiségi Önkormányzat
+* Óbuda - Békásmegyer III. kerületi Lengyel Nemzetiségi Önkormányzat
+* Szolnoki Lengyel Nemzetiségi Önkormányzat
+* Országos Lengyel Önkormányzat
+* Szalonnai Lengyel Nemzetiségi Önkormányzat
+* Tatabányai Lengyel Nemzetiségi Önkormányzat
+* Újpesti Lengyel Nemzetiségi Önkormányzat
+* XII. kerületiLengyel Nemzetiségi Önkormányzat
+* XIII. kerületi Lengyel Nemzetiségi Önkormányzat
+* XVII. kerületi Lengyel Nemzetiségi Önkormányzat
