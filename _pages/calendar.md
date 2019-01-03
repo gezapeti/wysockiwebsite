@@ -12,6 +12,11 @@ header:
 
 | | |
 |---|---|
+|2019.01.26|Gyakorlat III. - alaki gyakorlatok: 1848, világháborús korszakok|
+|2019.01.27|Vác, 56-os forgatás|
+|2019.02.03|Doni túra - Nagykáta|
+|2019.03.02|Szolnoki csata|
+|2019.03.15|Hajdúszoboszló - I. Dzsidás ezred emléktáblájának koszorúzása|
 |2019.08.20|Gdanski tanulmányi kirándulás|
 
 # Múltbeli események:
@@ -19,9 +24,8 @@ header:
 
 | | |
 |---|---|
-|2018.01.05|Raktár, bőr ápolás F5-től ahogy érkeztek|
+|2018.01.05|Raktártakarítás, bőr ápolás|
 |2018.01.19|I. vh előadás|
-|2018.01.27|lámpa szerelés, 15 órától. Esetlegesen más tevékenység|
 |2018.01.27-28.|Dóni túra|
 |2018.02.09|Közgyűlés|
 |2018.02.10|Maderspach Viktor -megemlékezés, hadijáték|
