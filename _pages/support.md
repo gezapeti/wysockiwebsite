@@ -20,9 +20,9 @@ Köszönjük az egyesulet működését és fejlődését biztosító támogatá
 
 * Bethlen Gábor Alapkezelő ![Bethlen Gábor Alapkezelő](assets/images/support/bethlen.jpg "Bethlen Gábor Alapkezelő"){:height="80px"}
 * Budapesti Lengyel Intézet
-* Emberi Erőforrások Minisztériuma ![Emberi Erőforrások Minisztériuma](assets/images/support/emmi.png "Emberi Erőforrások Minisztériuma")
-* Honvédelmi Minisztérium ![Honvédelmi Minisztérium](assets/images/support/hm.jpg "Honvédelmi Minisztérium")
-* Óbuda Békásmegyer Önkormányzata ![Óbuda Békásmegyer Önkormányzata](https://upload.wikimedia.org/wikipedia/commons/e/ee/Obuda-cimer.jpg "Óbuda Békásmegyer Önkormányzata")
+* Emberi Erőforrások Minisztériuma ![Emberi Erőforrások Minisztériuma](assets/images/support/emmi.png "Emberi Erőforrások Minisztériuma"){:height="80px"}
+* Honvédelmi Minisztérium ![Honvédelmi Minisztérium](assets/images/support/hm.jpg "Honvédelmi Minisztérium"){:height="80px"}
+* Óbuda Békásmegyer Önkormányzata ![Óbuda Békásmegyer Önkormányzata](https://upload.wikimedia.org/wikipedia/commons/e/ee/Obuda-cimer.jpg "Óbuda Békásmegyer Önkormányzata"){:height="80px"}
 * Lengyel Köztársaság Budapesti Nagykövetsége ![Lengyel Köztársaság Budapesti Nagykövetsége](assets/images/support/nagykovetseg.jpg "Lengyel Köztársaság Budapesti Nagykövetsége")
 * Fundacja Pomoc Polakom na Wschodzie ![Fundacja Pomoc  Polakom na Wschodzie](assets/images/support/pomoc.jpg "Fundacja Pomoc Polakom na Wschodzie")  
 * Stowarzyszenia Wspólnota Polska  ![Stowarzyszenia Wspólnota Polska](assets/images/support/Logo-Wspolnota-Polska.jpg "Stowarzyszenia Wspólnota Polska")
