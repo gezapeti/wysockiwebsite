@@ -63,7 +63,7 @@ header:
 |---|---|
 |2017.01.13|Januári Gyűlés|
 |2017.01.21|Görgey túra|
-|2017.01.00.|Doni túra|
+|2017.01.30|Doni túra|
 |2017.02.10|Gyűlés/gyakorlás|
 |2017.02.24|Kommunizmus áldozatai emléknapja|
 |2017.02.25|VH-s fegyverismereti óra, gyakorlás|
