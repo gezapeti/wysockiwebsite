@@ -59,6 +59,13 @@ header:
 |2018.10.24-27.|Krakkó, filmforgatás|
 |2018.10.27|1848/49-es és VH korszaki gyakorlás II. |
 |2018.10.29-11.01.|Krakkó, I. vh|
+|2018.11.03|Nagykáta 20 éves|
+|2018.11.04|Óbuda 56-os megemlékezés|
+|2018.11.11|100 éves fügetlenség - Pilsudski/Budai vár|
+|2018.11.13|Nagykövetségi fogadás|
+|2018.11.17|Óbudai Társaskör|
+|2018.11.25|Zászlószentelés|
+|2018.12.08|III. Gyakorlás|
 | | |
 |---|---|
 |2017.01.13|Januári Gyűlés|
@@ -98,6 +105,15 @@ header:
 |2017.09.01|Farkasréti temető|
 |2017.09.08|Isaszegi rendezvény - koszorúzások|
 |2017.09.09|Isaszegi rendezvény - konferencia|
+|2017.09.17|Katyn emlékmű 17 óra|
+|2017.09.22-24.|Niepolomice|
+|2017.10.05|Közgyűlés|
+|2017.10.20-21|Kadarkút - Tengőd|
+|2017.11.04|Raktár átépítés|
+|2017.11.11|Pilsudski emléktábla 11 óra|
+|2017.11.11|Jászfényszarú - Partizánvadászat|
+|2017.12.03|Díszőrség Bem/Katyn|
+|2017.12.31|Wysocki mellszobor|
 | | |
 |---|---|
 |2016.01.23|Görgey túra|
@@ -133,3 +149,10 @@ header:
 |2016.07.01-04.|Vasvári Pál napok - Kőrösfő|
 |2016.09.01|Farkasréti temető|
 |2016.09.13|Rákoskeresztúr|
+|2016.09.17|Óbudai piknik|
+|2016.09.17|Vámosmikola|
+|2016.10.06|Pesterzsébet|
+|2016.10.23|Bem tér 10:00-13:00|
+|2016.10.27|Óbudai Társaskör|
+|2016.11.10|Pilsduski tábla|
+|2016.11.11|Pilsduski tábla|
