@@ -12,16 +12,19 @@ header:
 
 | | |
 |---|---|
-|2019.01.26|Gyakorlat III. - alaki gyakorlatok: 1848, világháborús korszakok|
-|2019.01.27|Vác, 56-os forgatás|
 |2019.02.03|Doni túra - Nagykáta|
 |2019.03.02|Szolnoki csata|
 |2019.03.15|Hajdúszoboszló - I. Dzsidás ezred emléktáblájának koszorúzása|
+|2019.03.15|Miskolc|
+|2019.03.30|Hatvani csata|
 |2019.08.20|Gdanski tanulmányi kirándulás|
 
 # Múltbeli események:
 
 
+| | |
+|---|---|
+|2019.01.26|Gyakorlat III. - alaki gyakorlatok: 1848, világháborús korszakok|
 | | |
 |---|---|
 |2018.01.05|Raktártakarítás, bőr ápolás|
@@ -156,3 +159,5 @@ header:
 |2016.10.27|Óbudai Társaskör|
 |2016.11.10|Pilsduski tábla|
 |2016.11.11|Pilsduski tábla|
+| | |
+|---|---|
