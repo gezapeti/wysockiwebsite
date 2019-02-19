@@ -14,11 +14,15 @@ header:
 |---|---|
 |2019.02.24|Gyakorlat IV.|
 |2019.03.02|Szolnoki csata|
+|2019.03.03|Közgyűlés|
 |2019.03.14|Bem szobor, 11.00|
 |2019.03.15|Hajdúszoboszló - I. Dzsidás ezred emléktáblájának koszorúzása|
 |2019.03.15|Miskolc|
-|2019.03.15|XVII ker|
-|2019.03.30|Hatvani csata|
+|2019.03.15|Rákosmente - XVII. kerület|
+|2019.03.30|Tavaszi hadjárat - Hatvani csata|
+|2019.04.04|Tavaszi hadjárat - Tápióbicske|
+|2019.04.06|Tavaszi hadjárat - Isaszeg|
+|2019.04.05-07.|Oldtimer Show|
 |2019.04.12|Katyń - Óbuda|
 |2019.05.04|Óbuda Napja|
 |2019.08.20|Gdanski tanulmányi kirándulás|
