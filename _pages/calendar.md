@@ -25,7 +25,6 @@ header:
 |2019.04.05-07.|Oldtimer Show|
 |2019.04.12|Katyń - Óbuda|
 |2019.05.04|Óbuda Napja|
-|2019.08.20|Gdanski tanulmányi kirándulás|
 |2019.09.06-10.|Varsó Bemowo Magyar nap|
 
 # Múltbeli események:
@@ -37,7 +36,6 @@ header:
 |2019.02.03|Doni túra - Nagykáta|
 | | |
 |---|---|
-|2018.01.05|Raktártakarítás, bőr ápolás|
 |2018.01.19|I. vh előadás|
 |2018.01.27-28.|Doni túra|
 |2018.02.09|Közgyűlés|
@@ -58,7 +56,6 @@ header:
 |2018.05.05|Lengyel Nap - Hadtörténeti Múzeum|
 |2018.05.06|Egyesületi Születésnap|
 |2018.05.21|Budavár|
-|2018.05.25|Raktár pakolás, takarítás|
 |2018.05.26|Bem egyesület zászlóavatás, 16.00, Uránia|
 |2018.06.16|Rákosmenti Rendvédelmi Nap|
 |2018.06.23|Szt. László nap|
