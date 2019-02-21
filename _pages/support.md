@@ -19,10 +19,10 @@ Elérhetőek vagyunk a [Facebook oldalunkon](http://facebook.com/wysockilegio), 
 Köszönjük az egyesulet működését és fejlődését biztosító támogatást:
 
 * Bethlen Gábor Alapkezelő ![Bethlen Gábor Alapkezelő](assets/images/support/bethlen.jpg "Bethlen Gábor Alapkezelő")
-* Budapesti Lengyel Intézet
+* Budapesti Lengyel Intézet  ![Budapesti Lengyel Intézet ](assets/images/support/polinst.jpg "Budapesti Lengyel Intézet ")
 * Emberi Erőforrások Minisztériuma ![Emberi Erőforrások Minisztériuma](assets/images/support/emmi.png "Emberi Erőforrások Minisztériuma")
 * Honvédelmi Minisztérium ![Honvédelmi Minisztérium](assets/images/support/hm.jpg "Honvédelmi Minisztérium")
-* Óbuda Békásmegyer Önkormányzata ![Óbuda Békásmegyer Önkormányzata](https://upload.wikimedia.org/wikipedia/commons/e/ee/Obuda-cimer.jpg "Óbuda Békásmegyer Önkormányzata")
+* Óbuda Békásmegyer Önkormányzata ![Óbuda Békásmegyer Önkormányzata](assets/images/support/obuda.jpg "Óbuda Békásmegyer Önkormányzata")
 * Lengyel Köztársaság Budapesti Nagykövetsége ![Lengyel Köztársaság Budapesti Nagykövetsége](assets/images/support/nagykovetseg.jpg "Lengyel Köztársaság Budapesti Nagykövetsége")
 * Fundacja Pomoc Polakom na Wschodzie ![Fundacja Pomoc  Polakom na Wschodzie](assets/images/support/pomoc.jpg "Fundacja Pomoc Polakom na Wschodzie")  
 * Stowarzyszenia Wspólnota Polska  ![Stowarzyszenia Wspólnota Polska](assets/images/support/Logo-Wspolnota-Polska.jpg "Stowarzyszenia Wspólnota Polska")
