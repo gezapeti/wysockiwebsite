@@ -13,3 +13,5 @@ Mind a négy korszakot bemutató csapatunk vezényleti nyelve a lengyel, a légi
 2007 márciusában egyesületté alakultunk, Wysocki Légió Hagyományőrző Egyesület néven, amely minden más szervezettől független, a lengyelség és a magyarság közös történelmét, kultúráját, hagyományait és több mint ezer éves barátságát őrizzük és ápoljuk. A légió jelenlegi létszáma 25 fő és évente kb. 50 rendezvényen veszünk részt.
 
 További információk, képek találhatók a [Facebook oldalunkon](http://facebook.com/wysockilegio), illetve elérhetőek vagyunk az [info_kukac_wysocki.hu](mailto:info_kukac_wysocki.hu) címen is.
+
+Közhasznúsági jelentéseink [ezen a linken találhatók.](https://drive.google.com/open?id=0B-UOTSWdWe1tNF83QTRoWEQyaEE)
