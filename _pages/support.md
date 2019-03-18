@@ -16,9 +16,11 @@ SWIFT kód: OKHBHUHB
 
 Adószám: 18126453-1-41
 
+Levelezési cím: Budapest 1032, Ágoston u. 14. 8/43
+
 Elérhetőek vagyunk a [Facebook oldalunkon](http://facebook.com/wysockilegio), illetve az [info_kukac_wysocki.hu](mailto:info_kukac_wysocki.hu) címen is.
 
-Köszönjük az egyesulet működését és fejlődését biztosító támogatást:
+Köszönjük az egyesület működését és fejlődését biztosító támogatást:
 
 * Bethlen Gábor Alapkezelő ![Bethlen Gábor Alapkezelő](assets/images/support/bethlen.jpg "Bethlen Gábor Alapkezelő")
 * Budapesti Lengyel Intézet  ![Budapesti Lengyel Intézet ](assets/images/support/polinst.jpg "Budapesti Lengyel Intézet ")
