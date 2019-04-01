@@ -12,21 +12,15 @@ header:
 
 | | |
 |---|---|
-|2019.03.14|Akadémia u. 10.00 Bem szobor, 11.00|
-|2019.03.14|Előadás a Béke utcai óvodában|
-|2019.03.15|Hajdúszoboszló - I. Dzsidás ezred emléktáblájának koszorúzása|
-|2019.03.15|Miskolci városi ünnepség|
-|2019.03.15|Rákosmente - XVII. kerület|
-|2019.03.15|Bem szobor|
-|2019.03.19|Katyńi Mártírok Parkja|
-|2019.03.30|Tavaszi hadjárat - Hatvani csata|
 |2019.04.04|Tavaszi hadjárat - Tápióbicske|
-|2019.04.06|Tavaszi hadjárat - Isaszeg|
+|2019.04.06|Isaszeg|
 |2019.04.05-07.|Oldtimer Show|
 |2019.04.12|Katyń - Óbuda|
 |2019.04.13|Katyń - Tatabánya|
 |2019.05.04|Óbuda Napja|
-|2019.08.20|Gdanski tanulmányi kirándulás|
+|2019.05.31|Lengyel Intézet 85 éves|
+|2019.06.01|Lengyel Intézet 85 éves - családi nap|
+|2019.08.16.-24.|Gdanski tanulmányi kirándulás|
 |2019.09.06-10.|Varsó Bemowo Magyar nap|
 
 # Múltbeli események:
@@ -39,6 +33,13 @@ header:
 |2019.02.24|Gyakorlat IV.|
 |2019.03.02|Szolnoki csata|
 |2019.03.03|Közgyűlés|
+|2019.03.14|Akadémia u. 10.00 Bem szobor, 11.00|
+|2019.03.15|Hajdúszoboszlói városi ünnepség|
+|2019.03.15|Miskolci városi ünnepség|
+|2019.03.15|Rákosmente - XVII. kerület|
+|2019.03.15|Bem szobor|
+|2019.03.19|Katyńi Mártírok Parkja|
+|2019.03.30|Tavaszi hadjárat - Hatvani csata|
 | | |
 |---|---|
 |2018.01.19|I. vh előadás|
