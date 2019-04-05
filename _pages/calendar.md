@@ -12,8 +12,7 @@ header:
 
 | | |
 |---|---|
-|2019.04.04|Tavaszi hadjárat - Tápióbicske|
-|2019.04.06|Isaszeg|
+|2019.04.06|Tavaszi Hadjárat - Isaszeg|
 |2019.04.05-07.|Oldtimer Show|
 |2019.04.12|Katyń - Óbuda|
 |2019.04.13|Katyń - Tatabánya|
@@ -40,6 +39,7 @@ header:
 |2019.03.15|Bem szobor|
 |2019.03.19|Katyńi Mártírok Parkja|
 |2019.03.30|Tavaszi hadjárat - Hatvani csata|
+|2019.04.04|Tavaszi hadjárat - Tápióbicske|
 | | |
 |---|---|
 |2018.01.19|I. vh előadás|
