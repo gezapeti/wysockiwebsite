@@ -12,10 +12,8 @@ header:
 
 | | |
 |---|---|
-|2019.04.06|Tavaszi Hadjárat - Isaszeg|
-|2019.04.05-07.|Oldtimer Show|
 |2019.04.12|Katyń - Óbuda|
-|2019.04.13|Katyń - Tatabánya|
+|2019.04.26.-28.|Felvidéki Tavaszi|
 |2019.05.04|Óbuda Napja|
 |2019.05.31|Lengyel Intézet 80 éves|
 |2019.06.01|Lengyel Intézet 80 éves - családi nap|
@@ -40,6 +38,8 @@ header:
 |2019.03.19|Katyńi Mártírok Parkja|
 |2019.03.30|Tavaszi hadjárat - Hatvani csata|
 |2019.04.04|Tavaszi hadjárat - Tápióbicske|
+|2019.04.06|Tavaszi Hadjárat - Isaszeg|
+|2019.04.05-07.|Oldtimer Show|
 | | |
 |---|---|
 |2018.01.19|I. vh előadás|
