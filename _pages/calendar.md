@@ -12,12 +12,12 @@ header:
 
 | | |
 |---|---|
-|2019.05.04|Óbuda Napja|
 |2019.05.19|Budavár visszavétele / Honvédelem napja|
 |2019.05.31|Lengyel Intézet 80 éves|
 |2019.06.01|Lengyel Intézet 80 éves - családi nap|
 |2019.06.15-16.|Rákosmenti Rendvédelmi napok.|
-|2019.08.16.-24.|Gdanski tanulmányi kirándulás|
+|2019.08.09|Varsói felkelés Óbudán|
+|2019.08.17.-24.|Gdanski tanulmányi kirándulás|
 |2019.09.06-10.|Varsó Bemowo Magyar nap|
 
 # Múltbeli események:
@@ -40,6 +40,7 @@ header:
 |2019.04.04|Tavaszi hadjárat - Tápióbicske|
 |2019.04.06|Tavaszi Hadjárat - Isaszeg|
 |2019.04.05-07.|Oldtimer Show|
+|2019.05.04|Óbuda Napja|
 | | |
 |---|---|
 |2018.01.19|I. vh előadás|
