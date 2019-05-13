@@ -12,7 +12,6 @@ header:
 
 | | |
 |---|---|
-|2019.05.19|Budavár visszavétele / Honvédelem napja|
 |2019.05.31|Lengyel Intézet 80 éves|
 |2019.06.01|Lengyel Intézet 80 éves - családi nap|
 |2019.06.15-16.|Rákosmenti Rendvédelmi napok.|
