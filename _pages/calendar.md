@@ -12,10 +12,10 @@ header:
 
 | | |
 |---|---|
-|2019.06.01|Lengyel Intézet 80 éves - családi nap|
+|2019.06.01-02|HM FEST|
 |2019.06.15-16.|Rákosmenti Rendvédelmi napok.|
 |2019.06.22|Szent László napi ünnepség |
-|2019.08.09|Varsói felkelés Óbudán|
+|2019.06.27. - 30.|Vasvári Pál Napok - Kőrösfő|
 |2019.08.17.-24.|Gdanski tanulmányi kirándulás|
 |2019.09.06-10.|Varsó Bemowo Magyar nap|
 
@@ -40,6 +40,7 @@ header:
 |2019.04.06|Tavaszi Hadjárat - Isaszeg|
 |2019.04.05-07.|Oldtimer Show|
 |2019.05.04|Óbuda Napja|
+|2019.06.01|Lengyel Intézet 80 éves - családi nap|
 | | |
 |---|---|
 |2018.01.19|I. vh előadás|
