@@ -14,7 +14,8 @@ header:
 |---|---|
 |2019.08.09|Varsói felkelés Óbudán|
 |2019.08.17.-24.|Gdanski tanulmányi kirándulás|
-|2019.09.06-10.|Varsó Bemowo Magyar nap|
+|2019.09.06-10.|Varsó - Bemowo, Magyar nap|
+|2019.09.21|Civil és Nemzetiségi Nap  Óbuda - Keve utca|
 
 # Múltbeli események:
 
