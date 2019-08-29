@@ -12,9 +12,8 @@ header:
 
 | | |
 |---|---|
-|2019.08.10|Varsói felkelés Óbudán|
-|2019.08.17.-24.|Gdanski tanulmányi kirándulás|
-|2019.09.06-10.|Varsó - Bemowo, Magyar nap|
+|2019.08.30|Kistarcsa - Nemzetiségi Nap|
+|2019.09.01|Farkasréti temető|
 |2019.09.21|Civil és Nemzetiségi Nap  Óbuda - Keve utca|
 
 # Múltbeli események:
@@ -43,6 +42,7 @@ header:
 |2019.06.15-16.|Rákosmenti Rendvédelmi napok.|
 |2019.06.22|Szent László napi ünnepség |
 |2019.06.22|Cinkotai csata|
+|2019.08.10|Varsói felkelés Óbudán|
 | | |
 |---|---|
 |2018.01.19|I. vh előadás|
