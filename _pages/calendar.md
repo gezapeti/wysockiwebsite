@@ -12,9 +12,9 @@ header:
 
 | | |
 |---|---|
-|2019.09.21|Civil és Nemzetiségi Nap  Óbuda - Keve utca|
 |2019.09.27|Isaszeg|
 |2019.10.04|Közgyűlés - 19.00- raktár|
+|2019.10.30.-11.01.|Krakkó visszavétele|
 
 # Múltbeli események:
 
@@ -46,6 +46,7 @@ header:
 |2019.08.30|Kistarcsa - Nemzetiségi Nap|
 |2019.09.01|Farkasréti temető|
 |2019.09.18|Antall-Sławik emlékmű|
+|2019.09.21|Civil és Nemzetiségi Nap  Óbuda - Keve utca|
 | | |
 |---|---|
 |2018.01.19|I. vh előadás|
