@@ -12,7 +12,6 @@ header:
 
 | | |
 |---|---|
-|2019.10.30.-11.01.|Krakkó visszavétele - Lengyelország|
 |2019.11.06|Lengyel Függetlenség Napja - Pesti Vigadó|
 |2019.11.11|Lengyel Függetlenség Napja -Piłsudski tábla/emlékmű|
 
@@ -51,6 +50,7 @@ header:
 |2019.10.04|Közgyűlés - 19.00- raktár|
 |2019.10.12|Forgatás - Lengyel menekültek 39-ben|
 |2019.10.19|Zsebeházi Napok - Tengőd|
+|2019.10.30.-11.01.|Krakkó visszavétele - Lengyelország|
 | | |
 |---|---|
 |2018.01.19|I. vh előadás|
