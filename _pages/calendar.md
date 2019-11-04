@@ -13,6 +13,7 @@ header:
 | | |
 |---|---|
 |2019.11.06|Lengyel Függetlenség Napja - Pesti Vigadó|
+|2019.11.10|Lengyel Függetlenség Napja - Akadémia utca|
 |2019.11.11|Lengyel Függetlenség Napja -Piłsudski tábla/emlékmű|
 
 # Múltbeli események:
