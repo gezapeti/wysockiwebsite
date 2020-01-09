@@ -12,6 +12,9 @@ header:
 
 | | |
 |---|---|
+|2020.01.19|Gyakorlás|
+|2020.03.07|Szolnoki csata|
+|2020.05.15-17.|Krakkó - Múzeumok éjszakája|
 
 # Múltbeli események:
 
@@ -52,6 +55,8 @@ header:
 |2019.11.06|Lengyel Függetlenség Napja - Pesti Vigadó|
 |2019.11.10|Lengyel Függetlenség Napja - Akadémia utca|
 |2019.11.11|Lengyel Függetlenség Napja -Piłsudski tábla/emlékmű|
+|2019.11.17|Újpest- Lengyel Klub|
+|2019.12.31|Wysocki mellszobor|
 | | |
 |---|---|
 |2018.01.19|I. vh előadás|
