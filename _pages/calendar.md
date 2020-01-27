@@ -12,13 +12,17 @@ header:
 
 | | |
 |---|---|
-|2020.01.19|Gyakorlás|
+|2020.02.01|Doni megemlekezes, Nagykáta 1 nap|
+|2020.02.02|Doni megemlékezés Nagykáta 2. nap|
+|2020.03.01|Gyakorlás|
 |2020.03.07|Szolnoki csata|
 |2020.05.15-17.|Krakkó - Múzeumok éjszakája|
 
 # Múltbeli események:
 
 
+| | |
+|---|---|
 | | |
 |---|---|
 |2019.01.26|Gyakorlat III. - alaki gyakorlatok: 1848, világháborús korszakok|
