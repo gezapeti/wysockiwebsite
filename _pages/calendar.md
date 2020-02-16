@@ -12,10 +12,14 @@ header:
 
 | | |
 |---|---|
-|2020.02.01|Doni megemlekezes, Nagykáta 1 nap|
-|2020.02.02|Doni megemlékezés Nagykáta 2. nap|
 |2020.03.01|Gyakorlás|
 |2020.03.07|Szolnoki csata|
+|2020.03.14|Bem Szobor|
+|2020.03.21|Lengyel-magyar barátság napja Csepel|
+|2020.03.28|Hatvani csata|
+|2020.04.04|Tavaszi Hadjárat - Tápióbicske|
+|2020.04.06|Tavaszi Hadjárat - Isaszeg|
+|2020.04.24-26.|Felvidéki Tavaszi Hadjárat|
 |2020.05.15-17.|Krakkó - Múzeumok éjszakája|
 
 # Múltbeli események:
@@ -23,6 +27,7 @@ header:
 
 | | |
 |---|---|
+|Doni megemlekezes, Nagykáta|Viktor|
 | | |
 |---|---|
 |2019.01.26|Gyakorlat III. - alaki gyakorlatok: 1848, világháborús korszakok|
