@@ -12,8 +12,6 @@ header:
 
 | | |
 |---|---|
-|2020.04.10|Memento Szmolenszkért emlékmű|
-|2020.05.15-17.|Krakkó - Múzeumok éjszakája|
 |2020.06.19-21|Felvidéki Tavaszi hadjárat|
 
 # Múltbeli események:
@@ -24,6 +22,7 @@ header:
 |Doni megemlekezes, Nagykáta|Viktor|
 |Gyakorlás||
 |Szolnoki csata|Müller|
+|Memento Szmolenszkért||
 | | |
 |---|---|
 |2019.01.26|Gyakorlat III. - alaki gyakorlatok: 1848, világháborús korszakok|
