@@ -12,7 +12,7 @@ header:
 
 | | |
 |---|---|
-|2020.06.19-21|Felvidéki Tavaszi hadjárat|
+|2020.08.01|Solymár - Katonai temető|
 
 # Múltbeli események:
 
@@ -23,6 +23,7 @@ header:
 |Gyakorlás||
 |Szolnoki csata|Müller|
 |Memento Szmolenszkért||
+|Trianon 100 Esztergom|Viktor, vagy Emil|
 | | |
 |---|---|
 |2019.01.26|Gyakorlat III. - alaki gyakorlatok: 1848, világháborús korszakok|
