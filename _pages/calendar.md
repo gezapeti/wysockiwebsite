@@ -12,7 +12,11 @@ header:
 
 | | |
 |---|---|
-|2020.08.01|Solymár - Katonai temető|
+|2020.08.14|Gyakorlat|
+|2020.08.15|Koszorúzás Pilsudski mellszobor - Csörsz utca|
+|2020.08.15|Varsói csata 100. évfordulója - Hadtörténeti intézet és Múzeum|
+|2020.08.29|Tavaszi Emlékhadjárat seregszemléje|
+|2020.09.01|Farkasréti temető|
 
 # Múltbeli események:
 
