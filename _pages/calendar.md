@@ -12,9 +12,6 @@ header:
 
 | | |
 |---|---|
-|2020.08.24|Visztulai Csoda Parkajának felavatása - Lengyeltóti|
-|2020.08.29|Tavaszi Emlékhadjárat seregszemléje|
-|2020.09.01|Farkasréti temető|
 
 # Múltbeli események:
 
@@ -29,6 +26,9 @@ header:
 |Gyakorlat||
 |Varsói csata 100. évfordulója - Hadtörténeti intézet és Múzeum||
 |Koszorúzás Pilsudski mellszobor - Csörsz utca||
+|Visztulai Csoda Parkajának felavatása - Lengyeltóti||
+|Tavaszi Emlékhadjárat seregszemléje - Pomáz||
+|Farkasréti temető||
 | | |
 |---|---|
 |2019.01.26|Gyakorlat III. - alaki gyakorlatok: 1848, világháborús korszakok|
