@@ -12,6 +12,7 @@ header:
 
 | | |
 |---|---|
+|2020.12.31|Wysocki mellszobor, Nemzeti Múzeum|
 
 # Múltbeli események:
 
