@@ -10,10 +10,7 @@ header:
 # Közelgő, várható események:
 
 
-| | |
-|---|---|
-|2020.12.31|Wysocki mellszobor, Nemzeti Múzeum|
-
+Jelenleg nincs tervezett rendezvényünk.
 # Múltbeli események:
 
 
