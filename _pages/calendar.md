@@ -16,17 +16,17 @@ Jelenleg nincs tervezett rendezvényünk.
 
 | | |
 |---|---|
-|Doni megemlekezes, Nagykáta|Viktor|
-|Gyakorlás||
-|Szolnoki csata|Müller|
-|Memento Szmolenszkért||
-|Trianon 100 Esztergom|Viktor, vagy Emil|
-|Gyakorlat||
-|Varsói csata 100. évfordulója - Hadtörténeti intézet és Múzeum||
-|Koszorúzás Pilsudski mellszobor - Csörsz utca||
-|Visztulai Csoda Parkajának felavatása - Lengyeltóti||
-|Tavaszi Emlékhadjárat seregszemléje - Pomáz||
-|Farkasréti temető||
+|2020.02.01|Doni megemlekezes, Nagykáta|
+|2020.03.01|Gyakorlás|
+|2020.03.07|Szolnoki csata|
+|2020.04.10|Memento Szmolenszkért|
+|2020.06.04|Trianon 100 Esztergom|
+|2020.08.14|Gyakorlat|
+|2020.08.15|Varsói csata 100. évfordulója - Hadtörténeti intézet és Múzeum|
+|2020.08.15|Koszorúzás Pilsudski mellszobor - Csörsz utca|
+|2020.08.24|Visztulai Csoda Parkajának felavatása - Lengyeltóti|
+|2020.08.29|Tavaszi Emlékhadjárat seregszemléje - Pomáz|
+|2020.09.01|Farkasréti temető|
 | | |
 |---|---|
 |2019.01.26|Gyakorlat III. - alaki gyakorlatok: 1848, világháborús korszakok|
