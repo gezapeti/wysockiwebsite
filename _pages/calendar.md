@@ -10,7 +10,11 @@ header:
 # Közelgő, várható események:
 
 
-Jelenleg nincs tervezett rendezvényünk.
+| | |
+|---|---|
+|2020.11.11|Lengyel Függetlenség Napja - Pilsudski mellszobor|
+|2020.11.11||
+
 # Múltbeli események:
 
 
@@ -27,6 +31,8 @@ Jelenleg nincs tervezett rendezvényünk.
 |2020.08.24|Visztulai Csoda Parkajának felavatása - Lengyeltóti|
 |2020.08.29|Tavaszi Emlékhadjárat seregszemléje - Pomáz|
 |2020.09.01|Farkasréti temető|
+|2020.10.12-13.|Oldtimer Show|
+|2020.10.22|Koszorúzás Óbudán|
 | | |
 |---|---|
 |2019.01.26|Gyakorlat III. - alaki gyakorlatok: 1848, világháborús korszakok|
