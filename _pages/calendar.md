@@ -13,7 +13,6 @@ header:
 | | |
 |---|---|
 |2020.11.11|Lengyel Függetlenség Napja - Pilsudski mellszobor|
-|2020.11.11||
 
 # Múltbeli események:
 
