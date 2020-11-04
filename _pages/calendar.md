@@ -12,7 +12,10 @@ header:
 
 | | |
 |---|---|
+|2020.11.04|Kiscelli kastély koszorúzás|
 |2020.11.11|Lengyel Függetlenség Napja - Pilsudski mellszobor|
+|2020.11.13|Lengyel iskola előadás|
+|2020.11.14|Lengyel iskola előadás|
 
 # Múltbeli események:
 
