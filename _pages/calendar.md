@@ -12,8 +12,8 @@ header:
 
 | | |
 |---|---|
-|2020.11.04|Kiscelli kastély koszorúzás|
 |2020.11.11|Lengyel Függetlenség Napja - Pilsudski mellszobor|
+|2020.11.11|Közgyűlés|
 |2020.11.13|Lengyel iskola előadás|
 |2020.11.14|Lengyel iskola előadás|
 
@@ -35,6 +35,7 @@ header:
 |2020.09.01|Farkasréti temető|
 |2020.10.12-13.|Oldtimer Show|
 |2020.10.22|Koszorúzás Óbudán|
+|2020.11.04|Kiscelli kastély koszorúzás|
 | | |
 |---|---|
 |2019.01.26|Gyakorlat III. - alaki gyakorlatok: 1848, világháborús korszakok|
