@@ -12,14 +12,16 @@ header:
 
 | | |
 |---|---|
-|2020.11.11|Lengyel Függetlenség Napja - Pilsudski mellszobor|
-|2020.11.11|Közgyűlés|
-|2020.11.13|Lengyel iskola előadás|
-|2020.11.14|Lengyel iskola előadás|
+|2021.04.10|Memento Smoleńsk emlékmű|
+|2021.05.29|Felczak|
+|2021.07.02-04.|Komárom 1848. (3 nap sátor) Fórumot nézz!|
 
 # Múltbeli események:
 
 
+| | |
+|---|---|
+|2021.03.14|Bem szobor|
 | | |
 |---|---|
 |2020.02.01|Doni megemlekezes, Nagykáta|
@@ -36,6 +38,7 @@ header:
 |2020.10.12-13.|Oldtimer Show|
 |2020.10.22|Koszorúzás Óbudán|
 |2020.11.04|Kiscelli kastély koszorúzás|
+|2020.11.11|Közgyűlés|
 | | |
 |---|---|
 |2019.01.26|Gyakorlat III. - alaki gyakorlatok: 1848, világháborús korszakok|
