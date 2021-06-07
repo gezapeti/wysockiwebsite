@@ -12,9 +12,9 @@ header:
 
 | | |
 |---|---|
-|2021.04.10|Memento Smoleńsk emlékmű|
-|2021.05.29|Felczak|
-|2021.07.02-04.|Komárom 1848. (3 nap sátor) Fórumot nézz!|
+|2021.06.04|Tápióbicske|
+|2021.06.06|Isaszeg|
+|2021.06.24-26|Srebrna Góra|
 
 # Múltbeli események:
 
@@ -22,6 +22,8 @@ header:
 | | |
 |---|---|
 |2021.03.14|Bem szobor|
+|2021.05.20|Raktár, gyakorlat II.vh 17.00|
+|2021.05.29|Felczak|
 | | |
 |---|---|
 |2020.02.01|Doni megemlekezes, Nagykáta|
