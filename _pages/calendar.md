@@ -14,7 +14,6 @@ header:
 |---|---|
 |2021.06.04|Tápióbicske|
 |2021.06.06|Isaszeg|
-|2021.06.24-26|Srebrna Góra|
 
 # Múltbeli események:
 
