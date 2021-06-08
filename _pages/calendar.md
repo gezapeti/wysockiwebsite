@@ -10,11 +10,7 @@ header:
 # Közelgő, várható események:
 
 
-| | |
-|---|---|
-|2021.06.04|Tápióbicske|
-|2021.06.06|Isaszeg|
-
+Jelenleg nincs tervezett rendezvényünk.
 # Múltbeli események:
 
 
@@ -23,6 +19,8 @@ header:
 |2021.03.14|Bem szobor|
 |2021.05.20|Raktár, gyakorlat II.vh 17.00|
 |2021.05.29|Felczak|
+|2021.06.04|Tavaszi Hadjárat, Tápióbicske |
+|2021.06.06|Tavaszi Hadjárat, Isaszeg|
 | | |
 |---|---|
 |2020.02.01|Doni megemlekezes, Nagykáta|
