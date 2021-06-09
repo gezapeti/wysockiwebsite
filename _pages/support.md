@@ -52,6 +52,7 @@ Köszönjük az egyesület működését és fejlődését biztosító támogat�
 * Szalonnai Lengyel Nemzetiségi Önkormányzat
 * Tatabányai Lengyel Nemzetiségi Önkormányzat
 * Újpesti Lengyel Nemzetiségi Önkormányzat
-* XII. kerületiLengyel Nemzetiségi Önkormányzat
+* XI. kerületi Lengyel Nemzetiségi Önkormányzat
+* XII. kerületi Lengyel Nemzetiségi Önkormányzat
 * XIII. kerületi Lengyel Nemzetiségi Önkormányzat
 * XVII. kerületi Lengyel Nemzetiségi Önkormányzat
