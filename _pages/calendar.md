@@ -10,7 +10,17 @@ header:
 # Közelgő, várható események:
 
 
-Jelenleg nincs tervezett rendezvényünk.
+| | |
+|---|---|
+|2021.07.17|Lengyel-Magyar nap Székesfehérvár|
+|2021.07.18|Lengyel-Magyar nap        Vác|
+|2021.07.31|Lengyel-Magyar nap     Győr|
+|2021.08.01|Lengyel-Magyar nap Budapest|
+|2021.08.07|Lengyel-Magyar nap     Eger|
+|2021.08.08|Lengyel-Magyar nap     Esztergom|
+|2021.09.11|Lengyel-Magyar nap    Hatvan|
+|2021.09.12|Lengyel-Magyar nap    Veszprém|
+
 # Múltbeli események:
 
 
