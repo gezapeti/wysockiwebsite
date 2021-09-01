@@ -12,10 +12,8 @@ header:
 
 | | |
 |---|---|
-|2021.08.07|Lengyel-Magyar nap     Eger|
-|2021.08.08|Lengyel-Magyar nap     Esztergom|
-|2021.09.11|Lengyel-Magyar nap    Hatvan|
-|2021.09.12|Lengyel-Magyar nap    Veszprém|
+|2021.09.01|II. világháború kitörésének évfordulója|
+|2021.09.11|Szolnok - Gulyásfesztivál|
 
 # Múltbeli események:
 
@@ -30,6 +28,8 @@ header:
 |2021.06.26|Budavár visszavétele |
 |2021.07.31|Lengyel-Magyar nap     Vác|
 |2021.08.01|Lengyel-Magyar nap Budapest|
+|2021.08.07|Lengyel-Magyar nap     Eger|
+|2021.08.08|Lengyel-Magyar nap     Esztergom|
 | | |
 |---|---|
 |2020.02.01|Doni megemlekezes, Nagykáta|
