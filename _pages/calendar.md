@@ -12,7 +12,6 @@ header:
 
 | | |
 |---|---|
-|2021.09.01|II. világháború kitörésének évfordulója|
 |2021.09.11|Szolnok - Gulyásfesztivál|
 
 # Múltbeli események:
