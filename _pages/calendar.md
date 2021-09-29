@@ -12,7 +12,11 @@ header:
 
 | | |
 |---|---|
-|2021.09.11|Szolnok - Gulyásfesztivál|
+|2021.10.16|Lengyel-magyar séták, Kecskemét|
+|2021.10.17|Lengyel-magyar séták, Győr|
+|2021.10.22|1956-os megemlékezés Óbuda - Szent Péter Pál templom|
+|2021.10.30-11.01.|Krakkó|
+|2021.11.04|1956-os megemlékezés Óbuda - Kiscelli Múzeum|
 
 # Múltbeli események:
 
@@ -29,6 +33,7 @@ header:
 |2021.08.01|Lengyel-Magyar nap Budapest|
 |2021.08.07|Lengyel-Magyar nap     Eger|
 |2021.08.08|Lengyel-Magyar nap     Esztergom|
+|2021.09.11|Szolnok - Gulyásfesztivál|
 | | |
 |---|---|
 |2020.02.01|Doni megemlekezes, Nagykáta|
