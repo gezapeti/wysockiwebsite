@@ -12,12 +12,12 @@ header:
 
 | | |
 |---|---|
-|2021.10.16|Lengyel-magyar séták, Kecskemét|
-|2021.10.17|Lengyel-magyar séták, Győr|
-|2021.10.22|1956-os megemlékezés Óbuda - Szent Péter Pál templom|
-|2021.10.25|Óbuda - Németh Peter D-Day A leghosszabb nap napjainkban|
 |2021.10.29-11.01.|Krakkó|
 |2021.11.04|1956-os megemlékezés Óbuda - Kiscelli Múzeum|
+|2021.11.06|Lengyel-magyar séták,  Veszprém|
+|2021.11.07|Lengyel-magyar séták, Székesfehérvár|
+|2011.11.11|Piłsudski emlékmű|
+|2021.12.31|Wysocki mellszobor, Nemzeti Múzeum|
 
 # Múltbeli események:
 
@@ -35,6 +35,10 @@ header:
 |2021.08.07|Lengyel-Magyar nap     Eger|
 |2021.08.08|Lengyel-Magyar nap     Esztergom|
 |2021.09.11|Szolnok - Gulyásfesztivál|
+|2021.10.16|Lengyel-magyar séták, Kecskemét|
+|2021.10.17|Lengyel-magyar séták, Győr|
+|2021.10.22|1956-os megemlékezés Óbuda - Szent Péter Pál templom|
+|2021.10.25|Óbuda - Németh Peter D-Day A leghosszabb nap napjainkban|
 | | |
 |---|---|
 |2020.02.01|Doni megemlekezes, Nagykáta|
