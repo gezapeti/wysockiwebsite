@@ -33,7 +33,7 @@ Köszönjük az egyesület működését és fejlődését biztosító támogat�
 * Budapesti Lengyel Intézet  [![Budapesti Lengyel Intézet ](assets/images/support/polinst.jpg "Budapesti Lengyel Intézet ")](https://polinst.hu/)
 * Emberi Erőforrások Minisztériuma [![Emberi Erőforrások Minisztériuma](assets/images/support/emmi.png "Emberi Erőforrások Minisztériuma")](http://emmi.gov.hu/)
 * Honvédelmi Minisztérium [![Honvédelmi Minisztérium](assets/images/support/hm.jpg "Honvédelmi Minisztérium")](https://www.honvedelem.hu/)
-* Óbuda Békásmegyer Önkormányzata [![Óbuda Békásmegyer Önkormányzata](assets/images/support/obuda.jpg "Óbuda Békásmegyer Önkormányzata")](https://www.obuda.hu)
+* Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzata [![Óbuda Békásmegyer Önkormányzata](assets/images/support/obuda.png "Óbuda Békásmegyer Önkormányzata")](https://www.obuda.hu)
 * Lengyel Köztársaság Budapesti Nagykövetsége [![Lengyel Köztársaság Budapesti Nagykövetsége](assets/images/support/nagykovetseg.jpg "Lengyel Köztársaság Budapesti Nagykövetsége")](https://budapeszt.msz.gov.pl/hu/root)
 * Fundacja Pomoc Polakom na Wschodzie [![Fundacja Pomoc  Polakom na Wschodzie](assets/images/support/pomoc.jpg "Fundacja Pomoc Polakom na Wschodzie")](https://pol.org.pl/)  
 * Stowarzyszenia Wspólnota Polska  [![Stowarzyszenia Wspólnota Polska](assets/images/support/Logo-Wspolnota-Polska.jpg "Stowarzyszenia Wspólnota Polska")](http://www.wspolnota-polska.org.pl/)
