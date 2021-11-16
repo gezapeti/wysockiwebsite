@@ -12,9 +12,9 @@ header:
 
 | | |
 |---|---|
-|2011.11.11|Piłsudski emlékmű|
-|2021.11.13|Újpest, koncert|
-|2021.11.14|Függetlenségnapi koncert|
+|2021.11.25|közgyűlés |
+|2021.11.26|közgyűlés|
+|2021.12.04|Megemélekzés Kaim hegyen|
 |2021.12.31|Wysocki mellszobor, Nemzeti Múzeum|
 
 # Múltbeli események:
@@ -42,6 +42,7 @@ header:
 |2021.11.04|Bem tér|
 |2021.11.06|Lengyel-magyar séták,  Veszprém|
 |2021.11.07|Lengyel-magyar séták, Székesfehérvár|
+|2011.11.11|Piłsudski emlékmű|
 | | |
 |---|---|
 |2020.02.01|Doni megemlekezes, Nagykáta|
