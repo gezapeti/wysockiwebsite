@@ -10,13 +10,7 @@ header:
 # Közelgő, várható események:
 
 
-| | |
-|---|---|
-|2021.11.25|közgyűlés |
-|2021.11.26|közgyűlés|
-|2021.12.04|Megemélekzés Kaim hegyen|
-|2021.12.31|Wysocki mellszobor, Nemzeti Múzeum|
-
+Jelenleg nincs tervezett rendezvényünk.
 # Múltbeli események:
 
 
@@ -43,6 +37,8 @@ header:
 |2021.11.06|Lengyel-magyar séták,  Veszprém|
 |2021.11.07|Lengyel-magyar séták, Székesfehérvár|
 |2011.11.11|Piłsudski emlékmű|
+|2021.11.25|közgyűlés |
+|2021.12.31|Wysocki mellszobor, Nemzeti Múzeum|
 | | |
 |---|---|
 |2020.02.01|Doni megemlekezes, Nagykáta|
@@ -231,3 +227,4 @@ header:
 |2016.10.27|Óbudai Társaskör|
 |2016.11.10|Pilsduski tábla|
 |2016.11.11|Pilsduski tábla|
+Jelenleg nincs tervezett rendezvényünk.
