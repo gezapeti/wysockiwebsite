@@ -232,4 +232,3 @@ header:
 |2016.10.27|Óbudai Társaskör|
 |2016.11.10|Pilsduski tábla|
 |2016.11.11|Pilsduski tábla|
-Jelenleg nincs tervezett rendezvényünk.
