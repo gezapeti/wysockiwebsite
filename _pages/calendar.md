@@ -10,7 +10,12 @@ header:
 # Közelgő, várható események:
 
 
-Jelenleg nincs tervezett rendezvényünk.
+| | |
+|---|---|
+|2022.01.28|Évnyitó raktárazás|
+|2022.02.05|Doni túra|
+|2022.03.05|Szolnoki csatabemutató|
+
 # Múltbeli események:
 
 
