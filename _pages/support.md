@@ -20,6 +20,18 @@ Levelezési cím: Budapest 1032, Ágoston u. 14. 8/43
 
 Elérhetőek vagyunk a [Facebook oldalunkon](http://facebook.com/wysockilegio), illetve az [info_kukac_wysocki.hu](mailto:info_kukac_wysocki.hu) címen is.
 
+Egyesületünk működését 2021-ben támogatták a NCIV-KP-1-2021/1-000294 támogatási számon:
+
+<img src="assets/images/support/bgazrt.png" alt="Miniszterelnökség, Bethlen Gábor Alapkezelő" width="1200"/>
+[Miniszterelnökség](https://kormany.hu/miniszterelnokseg)
+[Bethlen Gábor Alapkezelő](http://bgazrt.hu)
+
+A 2021-es "Tanulmányút Katowicébe" programunk megvalósulását a Miniszterelnökség és a Bethlen Gábor Alapkezelő támogatta a NKUL-KP-1-2021/1-002065 számon.
+<img src="assets/images/support/bgazrt2021m.png" alt="Miniszterelnökség, Bethlen Gábor Alapkezelő" width="1200"/>
+
+A "2022-es naptár kiadása" projektekt létrejöttét és megvalósulását támogatták a NKUL-KP-1-2021/1-000256-VAL támogatási számon: Miniszterelnökség, Bethlen Gábor Alapkezelő
+<img src="assets/images/support/bgazrt2021.png" alt="Miniszterelnökség, Bethlen Gábor Alapkezelő" width="1200"/>
+
 Egyesületünk működését 2020-ban és 2019-ben és a 2019-ben megvalósult "Varsói felkelés emlékezete - életkép és csatarekonstrukció", "2020-as naptár kiadása" és "Gdańsk és környéke tanulmányút" projekteket támogatták:
 
 <img src="assets/images/support/bgazrt.png" alt="Miniszterelnökség, Bethlen Gábor Alapkezelő" width="1200"/>
