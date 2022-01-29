@@ -29,7 +29,7 @@ Egyesületünk működését 2021-ben támogatták a NCIV-KP-1-2021/1-000294 tá
 A 2021-es "Tanulmányút Katowicébe" programunk megvalósulását a Miniszterelnökség és a Bethlen Gábor Alapkezelő támogatta a NKUL-KP-1-2021/1-002065 számon.
 <img src="assets/images/support/bgazrt2021m.jpg" alt="Miniszterelnökség, Bethlen Gábor Alapkezelő" width="1200"/>
 
-A "2022-es naptár kiadása" projektekt létrejöttét és megvalósulását támogatták a NKUL-KP-1-2021/1-000256-VAL támogatási számon: Miniszterelnökség, Bethlen Gábor Alapkezelő
+A "2022-es naptár kiadása" projektekt létrejöttét és megvalósulását támogatták a NKUL-KP-1-2021/1-000256 támogatási számon: Miniszterelnökség, Bethlen Gábor Alapkezelő
 <img src="assets/images/support/bgazrt2021.jpg" alt="Miniszterelnökség, Bethlen Gábor Alapkezelő" width="1200"/>
 
 Egyesületünk működését 2020-ban és 2019-ben és a 2019-ben megvalósult "Varsói felkelés emlékezete - életkép és csatarekonstrukció", "2020-as naptár kiadása" és "Gdańsk és környéke tanulmányút" projekteket támogatták:
