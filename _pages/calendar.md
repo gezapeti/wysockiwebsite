@@ -13,8 +13,13 @@ header:
 | | |
 |---|---|
 |2022.01.28|Évnyitó raktárazás|
-|2022.02.05|Doni emléktúra|
+|2022.02.01|Gyakorlat, II.vh|
+|2022.02.05|Doni emléktúra - Nagykáta|
+|2022.02.12|Kecskemét kiképzés|
+|2022.02.19|Gyakorlat, 1848-49|
 |2022.03.05|Szolnoki csatabemutató|
+|2022.03.14-17.|Bemowo, március 15-i ünnepségek|
+|2021.04.15-17.|Katynski Marsz Cieni|
 
 # Múltbeli események:
 
