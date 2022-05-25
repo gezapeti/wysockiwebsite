@@ -12,7 +12,9 @@ header:
 
 | | |
 |---|---|
+|2022.06.12|Hősök napja - Nagykáta|
 |2022.06.25|Szolnoki csata|
+|2022.06.25|Szent László nap|
 
 # Múltbeli események:
 
@@ -110,6 +112,49 @@ header:
 |2019.12.31|Wysocki mellszobor|
 | | |
 |---|---|
+|2018.01.19|I. vh előadás|
+|2018.01.27-28.|Doni túra|
+|2018.02.09|Közgyűlés|
+|2018.02.10|Maderspach Viktor - megemlékezés, hadijáték|
+|2018.03.03|Szolnok|
+|2018.03.14|Bem szobor 11 óra|
+|2018.03.15|Miskolc|
+|2018.03.15|17. kerület - 9 óra|
+|2018.03.24|Kossuth Mauzóleum|
+|2018.03.28|Árpád Gimnázium|
+|2018.04.04|Tápióbicske - Tavaszi Hadjárat|
+|2018.04.06|Isaszeg - Tavaszi Hadjárat|
+|2018.04.12|Óbuda - Katyn megemlékezés|
+|2018.04.14|Oldtimer Show - szombat|
+|2018.04.15|Oldtimer Show - vasárnap|
+|2018.04.28-05.01.|Felvidéki Tavaszi Hadjárat|
+|2018.05.05|Óbuda Nap|
+|2018.05.05|Lengyel Nap - Hadtörténeti Múzeum|
+|2018.05.06|Egyesületi Születésnap|
+|2018.05.21|Budavár|
+|2018.05.25|Raktár pakolás, takarítás|
+|2018.05.26|Bem egyesület zászlóavatás, 16.00, Uránia|
+|2018.06.16|Rákosmenti Rendvédelmi Nap|
+|2018.06.23|Szt. László nap|
+|2018.07.6-08|Kőrösfő|
+|2018.08.01|Varsói felkelés Lengyel Intézet hadijáték|
+|2018.09.01|Farkasréti temető|
+|2018.09.16|1848/49-es és VH korszaki gyakorlás I.|
+|2018.09.26|Pilsudski szobor avatás|
+|2018.09.28-30.|Niepolomice|
+|2018.10.07|Párkány, Sobieski szobor, délután|
+|2018.10.24-27.|Krakkó, filmforgatás|
+|2018.10.27|1848/49-es és VH korszaki gyakorlás II. |
+|2018.10.29-11.01.|Krakkó, I. vh|
+|2018.11.03|Nagykáta 20 éves|
+|2018.11.04|Óbuda 56-os megemlékezés|
+|2018.11.11|100 éves fügetlenség - Pilsudski/Budai vár|
+|2018.11.13|Nagykövetségi fogadás|
+|2018.11.17|Óbudai Társaskör|
+|2018.11.25|Zászlószentelés|
+|2018.12.08|III. Gyakorlás|
+| | |
+|---|---|
 |2017.01.13|Januári Gyűlés|
 |2017.01.21|Görgey túra|
 |2017.01.30|Doni túra|
@@ -198,46 +243,3 @@ header:
 |2016.10.27|Óbudai Társaskör|
 |2016.11.10|Pilsduski tábla|
 |2016.11.11|Pilsduski tábla|
-| | |
-|---|---|
-|2018.01.19|I. vh előadás|
-|2018.01.27-28.|Doni túra|
-|2018.02.09|Közgyűlés|
-|2018.02.10|Maderspach Viktor - megemlékezés, hadijáték|
-|2018.03.03|Szolnok|
-|2018.03.14|Bem szobor 11 óra|
-|2018.03.15|Miskolc|
-|2018.03.15|17. kerület - 9 óra|
-|2018.03.24|Kossuth Mauzóleum|
-|2018.03.28|Árpád Gimnázium|
-|2018.04.04|Tápióbicske - Tavaszi Hadjárat|
-|2018.04.06|Isaszeg - Tavaszi Hadjárat|
-|2018.04.12|Óbuda - Katyn megemlékezés|
-|2018.04.14|Oldtimer Show - szombat|
-|2018.04.15|Oldtimer Show - vasárnap|
-|2018.04.28-05.01.|Felvidéki Tavaszi Hadjárat|
-|2018.05.05|Óbuda Nap|
-|2018.05.05|Lengyel Nap - Hadtörténeti Múzeum|
-|2018.05.06|Egyesületi Születésnap|
-|2018.05.21|Budavár|
-|2018.05.25|Raktár pakolás, takarítás|
-|2018.05.26|Bem egyesület zászlóavatás, 16.00, Uránia|
-|2018.06.16|Rákosmenti Rendvédelmi Nap|
-|2018.06.23|Szt. László nap|
-|2018.07.6-08|Kőrösfő|
-|2018.08.01|Varsói felkelés Lengyel Intézet hadijáték|
-|2018.09.01|Farkasréti temető|
-|2018.09.16|1848/49-es és VH korszaki gyakorlás I.|
-|2018.09.26|Pilsudski szobor avatás|
-|2018.09.28-30.|Niepolomice|
-|2018.10.07|Párkány, Sobieski szobor, délután|
-|2018.10.24-27.|Krakkó, filmforgatás|
-|2018.10.27|1848/49-es és VH korszaki gyakorlás II. |
-|2018.10.29-11.01.|Krakkó, I. vh|
-|2018.11.03|Nagykáta 20 éves|
-|2018.11.04|Óbuda 56-os megemlékezés|
-|2018.11.11|100 éves fügetlenség - Pilsudski/Budai vár|
-|2018.11.13|Nagykövetségi fogadás|
-|2018.11.17|Óbudai Társaskör|
-|2018.11.25|Zászlószentelés|
-|2018.12.08|III. Gyakorlás|
