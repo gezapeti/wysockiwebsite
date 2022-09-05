@@ -12,9 +12,7 @@ header:
 
 | | |
 |---|---|
-|2022.06.12|Hősök napja - Nagykáta|
-|2022.06.25|Szolnoki csata|
-|2022.06.25|Szent László nap|
+|2022.09.01|Farkasréti temető|
 
 # Múltbeli események:
 
@@ -30,6 +28,8 @@ header:
 |2022.03.14|Bem szobor|
 |2022.04.03|Katynski Marsz Cieni|
 |2022.04.12|Katyni Mártírok parkja|
+|2022.06.22|Lengyel Intézet- Tátrai futárok nyomában|
+|2022.08.01|Solymári katonai temető 17.00|
 | | |
 |---|---|
 |2021.03.14|Bem szobor|
