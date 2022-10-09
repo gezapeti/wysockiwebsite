@@ -12,7 +12,8 @@ header:
 
 | | |
 |---|---|
-|2022.09.01|Farkasréti temető|
+|2022.10.21|Gyűlés|
+|2022.11.18|Szeged, Katyn kereszt|
 
 # Múltbeli események:
 
@@ -30,6 +31,9 @@ header:
 |2022.04.12|Katyni Mártírok parkja|
 |2022.06.22|Lengyel Intézet- Tátrai futárok nyomában|
 |2022.08.01|Solymári katonai temető 17.00|
+|2022.09.01|Farkasréti temető|
+|2022.09.17|Óbuda, Katyn emlékmű|
+|2021.09.24|Isaszegi Múzeum 50. |
 | | |
 |---|---|
 |2021.03.14|Bem szobor|
