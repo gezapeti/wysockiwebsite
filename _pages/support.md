@@ -41,10 +41,9 @@ Egyesületünk működését 2020-ban és 2019-ben és a 2019-ben megvalósult "
 
 Köszönjük az egyesület működését és fejlődését biztosító támogatást:
 
-* Bethlen Gábor Alapkezelő [![Bethlen Gábor Alapkezelő](assets/images/support/bethlen.jpg "Bethlen Gábor Alapkezelő")](http://bgazrt.hu)
-* Budapesti Lengyel Intézet  [![Budapesti Lengyel Intézet ](assets/images/support/polinst.jpg "Budapesti Lengyel Intézet ")](https://polinst.hu/)
 * Emberi Erőforrások Minisztériuma [![Emberi Erőforrások Minisztériuma](assets/images/support/emmi.png "Emberi Erőforrások Minisztériuma")](http://emmi.gov.hu/)
 * Emberi Erőforrás Támogatáskezelő [![Emberi Erőforrás Támogatáskezelő](assets/images/support/emet.jpg "Emberi Erőforrás Támogatáskezelő")](http://emet.gov.hu/)
+* Budapesti Lengyel Intézet  [![Budapesti Lengyel Intézet ](assets/images/support/polinst.jpg "Budapesti Lengyel Intézet ")](https://polinst.hu/)
 * Honvédelmi Minisztérium [![Honvédelmi Minisztérium](assets/images/support/hm.jpg "Honvédelmi Minisztérium")](https://www.honvedelem.hu/)
 * Budapest Főváros III. Kerület, Óbuda-Békásmegyer Önkormányzata [![Óbuda Békásmegyer Önkormányzata](assets/images/support/obuda.png "Óbuda Békásmegyer Önkormányzata")](https://www.obuda.hu)
 * Lengyel Köztársaság Budapesti Nagykövetsége [![Lengyel Köztársaság Budapesti Nagykövetsége](assets/images/support/nagykovetseg.jpg "Lengyel Köztársaság Budapesti Nagykövetsége")](https://budapeszt.msz.gov.pl/hu/root)
