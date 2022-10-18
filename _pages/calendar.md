@@ -13,6 +13,8 @@ header:
 | | |
 |---|---|
 |2022.10.21|Gyűlés|
+|2022.10.21|Október 23-ai megemlékezés Óbuda|
+|2022.11.11|Pilsudki szobor|
 |2022.11.18|Szeged, Katyn kereszt|
 
 # Múltbeli események:
