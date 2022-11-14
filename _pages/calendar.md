@@ -12,10 +12,9 @@ header:
 
 | | |
 |---|---|
-|2022.10.21|Gyűlés|
-|2022.10.21|Október 23-ai megemlékezés Óbuda|
-|2022.11.11|Pilsudki szobor|
 |2022.11.18|Szeged, Katyn kereszt|
+|2022.12.02-04.|Lengyelország|
+|2022.12.31|Nemzeti Múzeum, Wysocki mellszobor|
 
 # Múltbeli események:
 
@@ -36,6 +35,8 @@ header:
 |2022.09.01|Farkasréti temető|
 |2022.09.17|Óbuda, Katyn emlékmű|
 |2021.09.24|Isaszegi Múzeum 50. |
+|2022.11.04|1956-os megemlékezés - Kiscelli kastély|
+|2022.11.11|Pilsudki szobor|
 | | |
 |---|---|
 |2021.03.14|Bem szobor|
