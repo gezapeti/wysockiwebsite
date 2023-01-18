@@ -12,13 +12,20 @@ header:
 
 | | |
 |---|---|
-|2022.11.18|Szeged, Katyn kereszt|
-|2022.12.02-04.|Lengyelország|
-|2022.12.31|Nemzeti Múzeum, Wysocki mellszobor|
+|2023.01.28|Görgey alagút|
+|2023.03.14|Bem szobor|
+|2023.04.06|Tavaszi Hadjárat Isaszeg (Isaszeg nemzeti emlékhellyé nyilvánítása)|
+|2023.04.1...|Katyni Martírok Parkja|
+|2023.08.01|Solymár . megemlékezés a Varsói felkelésről|
+|2023.09.01|Farkasréti temető - megemlékezés a II. világháború kitöréséről|
+|2023.11.11|Lengyel Függetlenség Napja - Pilsudksi mellszobor|
 
 # Múltbeli események:
 
 
+| | |
+|---|---|
+|2023.01.15|Doni túra- Tápióbicske|
 | | |
 |---|---|
 |2022.01.28|Évnyitó raktárazás|
@@ -37,6 +44,11 @@ header:
 |2021.09.24|Isaszegi Múzeum 50. |
 |2022.11.04|1956-os megemlékezés - Kiscelli kastély|
 |2022.11.11|Pilsudki szobor|
+|2022.11.18|Szeged, Katyn kereszt|
+|2022.12.01|Honvédelem Napi Fogadás|
+|2022.12.03|lövészet|
+|2022.12.31|Nemzeti Múzeum, Wysocki mellszobor|
+|2023.01.15|Doni túra- Tápióbicske|
 | | |
 |---|---|
 |2021.03.14|Bem szobor|
