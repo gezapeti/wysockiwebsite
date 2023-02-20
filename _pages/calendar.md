@@ -12,10 +12,15 @@ header:
 
 | | |
 |---|---|
-|2023.01.28|Görgey alagút|
+|2023.02.24|Gyakorlás|
+|2023.03.04|Szolnok|
 |2023.03.14|Bem szobor|
+|2023.03.15|Kecskeméti ünnepségek|
+|2023.03.15|Tiszadob |
+|2023.04.04|Tavaszi Hadjárat Tápióbicske|
 |2023.04.06|Tavaszi Hadjárat Isaszeg (Isaszeg nemzeti emlékhellyé nyilvánítása)|
 |2023.04.1...|Katyni Martírok Parkja|
+|2023.06.12|Esztergom Sobieski|
 |2023.08.01|Solymár . megemlékezés a Varsói felkelésről|
 |2023.09.01|Farkasréti temető - megemlékezés a II. világháború kitöréséről|
 |2023.11.11|Lengyel Függetlenség Napja - Pilsudksi mellszobor|
