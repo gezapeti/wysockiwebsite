@@ -20,7 +20,7 @@ header:
 |2023.05.13|Vámosmikola|
 |2022.06.09|Óhegy napok|
 |2023.06.17|Rákosmenti Rendvédelmi napok|
-|2023.08.01|Solymár . megemlékezés a Varsói felkelésről|
+|2023.08.01|Solymár - megemlékezés a Varsói felkelésről|
 |2023.09.01|Farkasréti temető - megemlékezés a II. világháború kitöréséről|
 |2023.11.11|Lengyel Függetlenség Napja - Pilsudksi mellszobor|
 
