@@ -12,10 +12,6 @@ header:
 
 | | |
 |---|---|
-|2023.03.14|Bem szobor 17.00|
-|2023.03.15|Kecskeméti ünnepségek|
-|2023.03.15|Tiszadob |
-|2023.03.17|Óvoda|
 |2023.03.22|Przemyś emlékmű 19.00|
 |2023.04.04|Tavaszi Hadjárat Tápióbicske|
 |2023.04.05|Szmolenszk emlékmű|
@@ -23,7 +19,6 @@ header:
 |2023.04.14|Katyni Martírok Parkja - 17.00|
 |2023.05.13|Vámosmikola|
 |2022.06.09|Óhegy napok|
-|2023.06.12|Esztergom Sobieski|
 |2023.06.17|Rákosmenti Rendvédelmi napok!|
 |2023.08.01|Solymár . megemlékezés a Varsói felkelésről|
 |2023.09.01|Farkasréti temető - megemlékezés a II. világháború kitöréséről|
@@ -38,6 +33,10 @@ header:
 |2023.02.24|Gyakorlás|
 |2023.03.04|Szolnok|
 |2023.03.10|Közgyűlés|
+|2023.03.14|Bem szobor 17.00|
+|2023.03.15|Kecskeméti ünnepségek|
+|2023.03.15|Tiszadob |
+|2023.03.17|Riz Levente Sport- és Rendezvényközpont - Óvodai ismereterjesztő foglalkozás|
 | | |
 |---|---|
 |2022.01.28|Évnyitó raktárazás|
