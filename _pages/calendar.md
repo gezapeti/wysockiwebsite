@@ -19,7 +19,7 @@ header:
 |2023.04.14|Katyni Martírok Parkja - 17.00|
 |2023.05.13|Vámosmikola|
 |2022.06.09|Óhegy napok|
-|2023.06.17|Rákosmenti Rendvédelmi napok!|
+|2023.06.17|Rákosmenti Rendvédelmi napok|
 |2023.08.01|Solymár . megemlékezés a Varsói felkelésről|
 |2023.09.01|Farkasréti temető - megemlékezés a II. világháború kitöréséről|
 |2023.11.11|Lengyel Függetlenség Napja - Pilsudksi mellszobor|
@@ -29,11 +29,11 @@ header:
 
 | | |
 |---|---|
-|2023.01.15|Doni túra- Tápióbicske|
+|2023.01.15|Doni túra - Tápióbicske|
 |2023.02.24|Gyakorlás|
 |2023.03.04|Szolnok|
 |2023.03.10|Közgyűlés|
-|2023.03.14|Bem szobor 17.00|
+|2023.03.14|Bem szobor|
 |2023.03.15|Kecskeméti ünnepségek|
 |2023.03.15|Tiszadob |
 |2023.03.17|Riz Levente Sport- és Rendezvényközpont - Óvodai ismereterjesztő foglalkozás|
@@ -59,7 +59,6 @@ header:
 |2022.12.01|Honvédelem Napi Fogadás|
 |2022.12.03|lövészet|
 |2022.12.31|Nemzeti Múzeum, Wysocki mellszobor|
-|2023.01.15|Doni túra- Tápióbicske|
 | | |
 |---|---|
 |2021.03.14|Bem szobor|
