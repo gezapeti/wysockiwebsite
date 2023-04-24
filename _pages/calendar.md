@@ -12,14 +12,11 @@ header:
 
 | | |
 |---|---|
-|2023.03.22|Przemyś emlékmű 19.00|
-|2023.04.04|Tavaszi Hadjárat Tápióbicske|
-|2023.04.05|Szmolenszk emlékmű|
-|2023.04.06|Tavaszi Hadjárat Isaszeg (Isaszeg nemzeti emlékhellyé nyilvánítása)|
-|2023.04.14|Katyni Martírok Parkja - 17.00|
+|2023.04.30-05.01.|Felvidéki Tavaszi Emlékhadjárat|
 |2023.05.13|Vámosmikola|
+|2023.05.18|Honvédelmi nap - Prágai nagykövettség|
 |2022.06.09|Óhegy napok|
-|2023.06.17|Rákosmenti Rendvédelmi napok|
+|2023.06.23-25.|Wysocki 25|
 |2023.08.01|Solymár - megemlékezés a Varsói felkelésről|
 |2023.09.01|Farkasréti temető - megemlékezés a II. világháború kitöréséről|
 |2023.11.11|Lengyel Függetlenség Napja - Pilsudksi mellszobor|
@@ -37,6 +34,10 @@ header:
 |2023.03.15|Kecskeméti ünnepségek|
 |2023.03.15|Tiszadob |
 |2023.03.17|Riz Levente Sport- és Rendezvényközpont - Óvodai ismereterjesztő foglalkozás|
+|2023.03.22|Przemyś emlékmű 19.00|
+|2023.04.04|Tavaszi Hadjárat Tápióbicske|
+|2023.04.06|Tavaszi Hadjárat Isaszeg (Isaszeg nemzeti emlékhellyé nyilvánítása)|
+|2023.04.14|Katyni Martírok Parkja - 17.00|
 | | |
 |---|---|
 |2022.01.28|Évnyitó raktárazás|
