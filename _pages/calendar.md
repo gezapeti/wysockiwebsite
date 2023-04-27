@@ -12,7 +12,6 @@ header:
 
 | | |
 |---|---|
-|2023.04.30-05.01.|Felvidéki Tavaszi Emlékhadjárat|
 |2023.05.13|Vámosmikola|
 |2023.05.18|Honvédelmi nap - Prágai nagykövettség|
 |2022.06.09|Óhegy napok|
