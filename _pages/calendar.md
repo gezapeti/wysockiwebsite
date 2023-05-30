@@ -12,8 +12,6 @@ header:
 
 | | |
 |---|---|
-|2023.05.13|Vámosmikola|
-|2023.05.18|Honvédelmi nap - Prágai nagykövettség|
 |2022.06.09|Óhegy napok|
 |2023.06.23-25.|Wysocki 25|
 |2023.08.01|Solymár - megemlékezés a Varsói felkelésről|
@@ -37,6 +35,8 @@ header:
 |2023.04.04|Tavaszi Hadjárat Tápióbicske|
 |2023.04.06|Tavaszi Hadjárat Isaszeg (Isaszeg nemzeti emlékhellyé nyilvánítása)|
 |2023.04.14|Katyni Martírok Parkja - 17.00|
+|2023.05.13|Vámosmikola|
+|2023.05.18|Honvédelmi nap - Prágai nagykövetség|
 | | |
 |---|---|
 |2022.01.28|Évnyitó raktárazás|
