@@ -12,9 +12,6 @@ header:
 
 | | |
 |---|---|
-|2023.06.23-25.|Wysocki 25|
-|2023.08.04-06.|Szőregi csata|
-|2023.07.08|IV. POMÁZI HUSZÁR ÉS KATONAI HAGYOMÁNYŐRZŐ ÜNNEP|
 |2023.08.01|Solymár - megemlékezés a Varsói felkelésről|
 |2023.09.01|Farkasréti temető - megemlékezés a II. világháború kitöréséről|
 |2023.11.11|Lengyel Függetlenség Napja - Pilsudksi mellszobor|
@@ -39,6 +36,8 @@ header:
 |2023.05.13|Vámosmikola|
 |2023.05.18|Honvédelmi nap - Prágai nagykövetség|
 |2022.06.09|Óhegy napok|
+|2023.06.23-25.|Wysocki 25|
+|2023.07.08|IV. POMÁZI HUSZÁR ÉS KATONAI HAGYOMÁNYŐRZŐ ÜNNEP|
 | | |
 |---|---|
 |2022.01.28|Évnyitó raktárazás|
