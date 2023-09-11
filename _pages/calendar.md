@@ -12,8 +12,11 @@ header:
 
 | | |
 |---|---|
-|2023.08.15|Lengyel Honvédelem Napja - Pilsudski|
 |2023.09.01|Farkasréti temető - megemlékezés a II. világháború kitöréséről|
+|2023.09.15-17.|Żywieci futárok (Abrahamów)|
+|2023.09.17|Megemlékezés, Óbudai Katyń emlékmű|
+|2023.09.25|Lengyel Nagykövetség - fogadás|
+|2023.10.06|Monori megemlékezls|
 |2023.11.11|Lengyel Függetlenség Napja - Pilsudksi mellszobor|
 
 # Múltbeli események:
