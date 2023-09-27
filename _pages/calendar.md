@@ -12,12 +12,9 @@ header:
 
 | | |
 |---|---|
-|2023.09.01|Farkasréti temető - megemlékezés a II. világháború kitöréséről|
-|2023.09.15-17.|Żywieci futárok (Abrahamów)|
-|2023.09.17|Megemlékezés, Óbudai Katyń emlékmű|
-|2023.09.25|Lengyel Nagykövetség - fogadás|
 |2023.10.06|Monori megemlékezls|
 |2023.11.11|Lengyel Függetlenség Napja - Pilsudksi mellszobor|
+|2023.12.31|Wysocki mellszobor koszorúzása|
 
 # Múltbeli események:
 
@@ -42,6 +39,10 @@ header:
 |2023.06.23-25.|Wysocki 25|
 |2023.07.08|IV. POMÁZI HUSZÁR ÉS KATONAI HAGYOMÁNYŐRZŐ ÜNNEP|
 |2023.08.01|Solymár - megemlékezés a Varsói felkelésről|
+|2023.09.01|Farkasréti temető - megemlékezés a II. világháború kitöréséről|
+|2023.09.15-17.|Żywieci futárok (Abrahamów)|
+|2023.09.17|Megemlékezés, Óbudai Katyń emlékmű|
+|2023.09.25|Lengyel Nagykövetség - fogadás|
 | | |
 |---|---|
 |2022.01.28|Évnyitó raktárazás|
