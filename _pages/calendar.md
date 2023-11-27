@@ -12,8 +12,6 @@ header:
 
 | | |
 |---|---|
-|2023.10.06|Monori megemlékezls|
-|2023.11.11|Lengyel Függetlenség Napja - Pilsudksi mellszobor|
 |2023.12.31|Wysocki mellszobor koszorúzása|
 
 # Múltbeli események:
@@ -43,6 +41,12 @@ header:
 |2023.09.15-17.|Żywieci futárok (Abrahamów)|
 |2023.09.17|Megemlékezés, Óbudai Katyń emlékmű|
 |2023.09.25|Lengyel Nagykövetség - fogadás|
+|2023.10.06|Monori megemlékezés|
+|2023.10.20|1956-os megemlékezés Óbudán|
+|2023.10.21|Tengőd|
+|2023.10.28|I-II. vh-s gyakorlás|
+|2023.11.03|1956-os megemlékezés a Kiscelli kastélynál|
+|2023.11.11|Lengyel Függetlenség Napja - Pilsudksi emléktábla 10:00; mellszobor 11:00|
 | | |
 |---|---|
 |2022.01.28|Évnyitó raktárazás|
