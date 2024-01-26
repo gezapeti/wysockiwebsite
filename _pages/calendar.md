@@ -12,7 +12,7 @@ header:
 
 | | |
 |---|---|
-|2023.12.31|Wysocki mellszobor koszorúzása|
+|2024.02.10|Nagykáta - Doni emléktúra|
 
 # Múltbeli események:
 
@@ -47,6 +47,7 @@ header:
 |2023.10.28|I-II. vh-s gyakorlás|
 |2023.11.03|1956-os megemlékezés a Kiscelli kastélynál|
 |2023.11.11|Lengyel Függetlenség Napja - Pilsudksi emléktábla 10:00; mellszobor 11:00|
+|2023.12.31|Wysocki mellszobor koszorúzása|
 | | |
 |---|---|
 |2022.01.28|Évnyitó raktárazás|
