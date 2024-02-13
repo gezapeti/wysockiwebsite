@@ -12,11 +12,15 @@ header:
 
 | | |
 |---|---|
-|2024.02.10|Nagykáta - Doni emléktúra|
+|2024.03.02|Szolnoki csata|
+|2024.03.16|Miskolc - március 15|
 
 # Múltbeli események:
 
 
+| | |
+|---|---|
+|2024.02.10|Nagykáta - Doni emléktúra|
 | | |
 |---|---|
 |2023.01.15|Doni túra - Tápióbicske|
