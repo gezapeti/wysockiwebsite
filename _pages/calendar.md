@@ -12,16 +12,8 @@ header:
 
 | | |
 |---|---|
-|2024.05.11|Gavlik István Emléktábla avatás - Apostag|
-|2024.05.12|Európa Nap|
-|2024.06.28-30.|Szt László napok - Győr|
-|2024.08.01|Solymári katonai temető - Varsói felkelés|
-|2024.08.02-04|Szőregi csata|
-|2024.09.01|Farkasréti temető - megemlékezés a II. vh kitöréséről|
-|2024.11.15-17|Olkusz|
-|2024.09.12-15.|Cieszanów Piknik|
-|2024.11.11|Pilsudkski mellszobor- Lengyel függetlenség napja|
-|2024.12.05-08.|Staniątki - Krakkó - FAR2|
+|2025.03.08|Szolnok|
+|2025.03.14|Árpád Gimnázium - március 15-i ünnepség|
 
 # Múltbeli események:
 
@@ -39,6 +31,16 @@ header:
 |2024.04.06|Iszaseg|
 |2024.04.27-28.|Felvidéki Tavaszi Hadjárat|
 |2024.05.01-04.|Varsó|
+|2024.05.11|Gavlik István Emléktábla avatás - Apostag|
+|2024.05.12|Európa Nap|
+|2024.07.28|I VH 105. évfordulója rendezvénysorozat - Nyugati pu.|
+|2024.08.01|Solymári katonai temető - Varsói felkelés|
+|2024.09.01|Farkasréti temető - megemlékezés a II. vh kitöréséről|
+|2024.09.23|Lengyel HadseregNapja|
+|2024.09.12-15.|Cieszanów Piknik|
+|2024.11.10|Lengyel Függetlenség Napja - Vár|
+|2024.11.11|Pilsudkski mellszobor- Lengyel függetlenség napja|
+|2024.12.31|Wysocki mellszobor|
 | | |
 |---|---|
 |2023.01.15|Doni túra - Tápióbicske|
