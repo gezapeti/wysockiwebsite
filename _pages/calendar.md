@@ -12,12 +12,19 @@ header:
 
 | | |
 |---|---|
-|2025.03.08|Szolnok|
-|2025.03.14|Árpád Gimnázium - március 15-i ünnepség|
+|2025.04.02|36. Tavaszi Emlékhadjárat - Boldog|
+|2025.04.04|36. Tavaszi Emlékhadjárat - Tápióbicske|
+|2025.04.06|36. Tavaszi Emlékhadjárat - Isaszeg|
+|2025.04.11|Katyni Mártírok parkja|
 
 # Múltbeli események:
 
 
+| | |
+|---|---|
+|2025.03.08|Szolnok|
+|2025.03.14|Árpád Gimnázium - március 15-i ünnepség|
+|2025.03.14|Bem szobor|
 | | |
 |---|---|
 |2024.02.10|Nagykáta - Doni emléktúra|
