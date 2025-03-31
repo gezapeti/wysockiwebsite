@@ -16,6 +16,7 @@ header:
 |2025.04.04|36. Tavaszi Emlékhadjárat - Tápióbicske|
 |2025.04.06|36. Tavaszi Emlékhadjárat - Isaszeg|
 |2025.04.11|Katyni Mártírok parkja|
+|2025.04.26.27.|Felvidéki Emlékhadjárat|
 
 # Múltbeli események:
 
