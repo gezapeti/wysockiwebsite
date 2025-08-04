@@ -12,20 +12,28 @@ header:
 
 | | |
 |---|---|
-|2025.04.02|36. Tavaszi Emlékhadjárat - Boldog|
-|2025.04.04|36. Tavaszi Emlékhadjárat - Tápióbicske|
-|2025.04.06|36. Tavaszi Emlékhadjárat - Isaszeg|
-|2025.04.11|Katyni Mártírok parkja|
-|2025.04.26.27.|Felvidéki Emlékhadjárat|
+|2025.08.01|Solymár - Varsói felkelés|
+|2025.09.01|Farkasréti temető |
+|2025.09.07|Koszorúzás a lengyel menekültek emlékére- Lengyel Templom|
+|2025.09.12-14.|Cieszaniec|
+|2025.10.11|Vámosmikola|
+|2025.11.11|Pilsudski szobor - Lengyel Függetlenség Napja|
 
 # Múltbeli események:
 
 
 | | |
 |---|---|
-|2025.03.08|Szolnok|
+|2025.03.08|Szolnoki csata|
 |2025.03.14|Árpád Gimnázium - március 15-i ünnepség|
 |2025.03.14|Bem szobor|
+|2025.04.04|36. Tavaszi Emlékhadjárat - Tápióbicske|
+|2025.04.06|36. Tavaszi Emlékhadjárat - Isaszeg|
+|2025.04.11|Katyni Mártírok parkja|
+|2025.04.25|Karbantartás|
+|2025.05.13|Közgyűlés|
+|2025.05.24|Pomáz|
+|2025.06.04|Új köztemető, Lengyel parcella|
 | | |
 |---|---|
 |2024.02.10|Nagykáta - Doni emléktúra|
