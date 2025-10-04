@@ -13,7 +13,7 @@ header:
 | | |
 |---|---|
 |2025.10.11|Vámosmikola|
-|2025.10.22|Óbuda Péter Pál plébánia|
+|2025.10.22|Óbuda - Péter Pál plébánia|
 |2025.11.04|Óbuda - Kiscelli Múzeum|
 |2025.11.11|Pilsudski szobor - Lengyel Függetlenség Napja|
 
