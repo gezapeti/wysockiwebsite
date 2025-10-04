@@ -12,11 +12,9 @@ header:
 
 | | |
 |---|---|
-|2025.08.01|Solymár - Varsói felkelés|
-|2025.09.01|Farkasréti temető |
-|2025.09.07|Koszorúzás a lengyel menekültek emlékére- Lengyel Templom|
-|2025.09.12-14.|Cieszaniec|
 |2025.10.11|Vámosmikola|
+|2025.10.22|Óbuda Péter Pál plébánia|
+|2025.11.04|Óbuda - Kiscelli Múzeum|
 |2025.11.11|Pilsudski szobor - Lengyel Függetlenség Napja|
 
 # Múltbeli események:
@@ -34,6 +32,9 @@ header:
 |2025.05.13|Közgyűlés|
 |2025.05.24|Pomáz|
 |2025.06.04|Új köztemető, Lengyel parcella|
+|2025.08.01|Solymár - Varsói felkelés|
+|2025.09.01|Farkasréti temető |
+|2025.09.07|Koszorúzás a lengyel menekültek emlékére- Lengyel Templom|
 | | |
 |---|---|
 |2024.02.10|Nagykáta - Doni emléktúra|
