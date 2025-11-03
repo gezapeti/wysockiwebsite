@@ -12,9 +12,6 @@ header:
 
 | | |
 |---|---|
-|2025.10.22|Óbuda - Péter Pál plébánia|
-|2025.10.24-26.|Zsebeházi napok|
-|2025.11.04|Óbuda - Kiscelli Múzeum|
 |2025.11.09|Lengyel Függetlenség Napja - menet|
 |2025.11.11|Pilsudski emlékmű- Lengyel Függetlenség Napja|
 |2025.11.11|Pilsudski szobor - Lengyel Függetlenség Napja|
@@ -38,6 +35,9 @@ header:
 |2025.09.01|Farkasréti temető |
 |2025.09.07|Koszorúzás a lengyel menekültek emlékére- Lengyel Templom|
 |2025.10.11|Vámosmikola|
+|2025.10.22|Óbuda - Péter Pál plébánia|
+|2025.10.24-26.|Zsebeházi napok|
+|2025.11.04|Óbuda - Kiscelli Múzeum|
 | | |
 |---|---|
 |2024.02.10|Nagykáta - Doni emléktúra|
