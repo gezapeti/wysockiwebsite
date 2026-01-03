@@ -12,9 +12,10 @@ header:
 
 | | |
 |---|---|
-|2025.11.09|Lengyel Függetlenség Napja - menet|
-|2025.11.11|Pilsudski emlékmű- Lengyel Függetlenség Napja|
-|2025.11.11|Pilsudski szobor - Lengyel Függetlenség Napja|
+|2025.12.31|Wysocki mellszobor|
+|2026.01.23-25|Szánkózás Krynica|
+|2026.01.30-02.1|Szánkózás Krynica|
+|2026.02.06-08|Szánkózás Krynica|
 
 # Múltbeli események:
 
@@ -38,6 +39,10 @@ header:
 |2025.10.22|Óbuda - Péter Pál plébánia|
 |2025.10.24-26.|Zsebeházi napok|
 |2025.11.04|Óbuda - Kiscelli Múzeum|
+|2025.11.09|Lengyel Függetlenség Napja - menet|
+|2025.11.11|Pilsudski emlékmű- Lengyel Függetlenség Napja|
+|2025.11.11|Pilsudski szobor - Lengyel Függetlenség Napja|
+|2025.11.12|„Míg győz, vagy testhalmok közt sírt talál” kiállításmegnyitó MH|
 | | |
 |---|---|
 |2024.02.10|Nagykáta - Doni emléktúra|
