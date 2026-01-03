@@ -13,9 +13,6 @@ header:
 | | |
 |---|---|
 |2025.12.31|Wysocki mellszobor|
-|2026.01.23-25|Szánkózás Krynica|
-|2026.01.30-02.1|Szánkózás Krynica|
-|2026.02.06-08|Szánkózás Krynica|
 
 # Múltbeli események:
 
