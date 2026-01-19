@@ -12,7 +12,7 @@ header:
 
 | | |
 |---|---|
-|2025.12.31|Wysocki mellszobor|
+|2026.03.07|Szolnoki csata|
 
 # Múltbeli események:
 
@@ -40,6 +40,7 @@ header:
 |2025.11.11|Pilsudski emlékmű- Lengyel Függetlenség Napja|
 |2025.11.11|Pilsudski szobor - Lengyel Függetlenség Napja|
 |2025.11.12|„Míg győz, vagy testhalmok közt sírt talál” kiállításmegnyitó MH|
+|2025.12.31|Wysocki mellszobor|
 | | |
 |---|---|
 |2024.02.10|Nagykáta - Doni emléktúra|
