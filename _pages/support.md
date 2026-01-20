@@ -18,7 +18,21 @@ Adószám: 18126453-1-41
 
 Levelezési cím: Budapest 1032, Ágoston u. 14. 8/43
 
-Elérhetőek vagyunk a [Facebook oldalunkon](http://facebook.com/wysockilegio), illetve az [info_kukac_wysocki.hu](mailto:info_kukac_wysocki.hu) címen is.
+Elérhetőek vagyunk a [Facebook oldalunkon](http://facebook.com/wysockilegio), illetve az [info_kukac_wysocki.hu](mailto:info_kukac_wysocki.hu) címen is6
+
+Egyesületünk működését 2026-ban támogatták a NCIV-KP-1-2026/1-000157 és a NEAO-KP-1-2026/5-000182 támogatási számon:
+
+<img src="assets/images/support/bgazrt2026.jpg" alt="Miniszterelnökség, Bethlen Gábor Alapkezelő" width="1200"/>
+[Miniszterelnökség](https://kormany.hu/miniszterelnokseg)
+[Bethlen Gábor Alapkezelő](http://bgazrt.hu)
+
+
+Egyesületünk működését 2025-ben támogatták a NEAO-KP-1-2025/5-000095 támogatási számon:
+
+<img src="assets/images/support/bgazrt2025.jpg" alt="Miniszterelnökség, Bethlen Gábor Alapkezelő" width="1200"/>
+[Miniszterelnökség](https://kormany.hu/miniszterelnokseg)
+[Bethlen Gábor Alapkezelő](http://bgazrt.hu)
+
 
 Egyesületünk működését 2024-ban támogatták a NCIV-KP-1-2024/1-000258 támogatási számon:
 
