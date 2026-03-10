@@ -12,11 +12,27 @@ header:
 
 | | |
 |---|---|
-|2026.03.07|Szolnoki csata|
+|2026.03.13|Március 15-i előadás Dunakeszi, Mosolyvár óvoda|
+|2026.03.13|Március 15-i előadás  Kispesti Deák Ferenc Gimnázium|
+|2026.03.14|Bem szobor|
+|2026.03.21|Győr - Lengyel-Magyar Barátság Napja|
+|2026.04.04|Tavaszi Emlékhadjárat - Tápióbicske|
+|2026.04.06|Tavaszi Emlékhadjárat - Isaszeg|
+|2026.04.14|Katyni megemlékezés|
+|2026.04.25-26.|Felvidéki Tavaszi|
+|2026.05.30-31.|FAR - Nr2 30 - Krakkó|
+|2026.08.01|Varsói felkelés - Solymár|
+|2026.09.01|Farkasréti temető|
+|2026.11.11|Lengyel Függetlenség Napja|
 
 # Múltbeli események:
 
 
+| | |
+|---|---|
+|2026.02.20-22|Tanulmányi út Krynica|
+|2026.02.28|2026 évnyító gyakorlás '48|
+|2026.03.07|Szolnoki csata|
 | | |
 |---|---|
 |2025.03.08|Szolnoki csata|
