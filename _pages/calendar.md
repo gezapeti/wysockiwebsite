@@ -12,7 +12,6 @@ header:
 
 | | |
 |---|---|
-|2026.04.14|Katyni megemlékezés|
 |2026.04.25-26.|Felvidéki Tavaszi|
 |2026.05.30-31.|FAR - Nr2 30 - Krakkó|
 |2026.08.01|Varsói felkelés - Solymár|
@@ -34,6 +33,7 @@ header:
 |2026.03.23|Bem szobor - Lengyel-Magyar Barátság Napja|
 |2026.04.04|Tavaszi Emlékhadjárat - Tápióbicske|
 |2026.04.06|Tavaszi Emlékhadjárat - Isaszeg|
+|2026.04.14|Katyni megemlékezés|
 | | |
 |---|---|
 |2025.03.08|Szolnoki csata|
