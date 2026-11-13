@@ -12,11 +12,8 @@ header:
 
 | | |
 |---|---|
-|2026.04.25-26.|Felvidéki Tavaszi|
-|2026.05.30-31.|FAR - Nr2 30 - Krakkó|
-|2026.08.01|Varsói felkelés - Solymár|
-|2026.09.01|Farkasréti temető|
-|2026.11.11|Lengyel Függetlenség Napja|
+|2026.11.19|Bem szobor|
+|2026.11. 21.|Wysocki szobor 50.|
 
 # Múltbeli események:
 
@@ -34,6 +31,15 @@ header:
 |2026.04.04|Tavaszi Emlékhadjárat - Tápióbicske|
 |2026.04.06|Tavaszi Emlékhadjárat - Isaszeg|
 |2026.04.14|Katyni megemlékezés|
+|2026.04.25-26.|Felvidéki Tavaszi|
+|2026.05.30-31.|FAR - Nr2 30 - Krakkó|
+|2026.08.01|Varsói felkelés - Solymár|
+|2026.08.08|Varsói felkelés - Esztergom|
+|2026.09.01|Farkasréti temető|
+|2026.09.14|Lengyel Honvédelem Napja|
+|2026.11.04|Kiscelli kastély|
+|2026.11.11|Lengyel Függetlenség Napja 11.11|
+|2026.11.11|Lengyel Függetlenség Napja 17.00|
 | | |
 |---|---|
 |2025.03.08|Szolnoki csata|
